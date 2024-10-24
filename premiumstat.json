@@ -1,111 +1,111 @@
 [
   {
-    "name1": "Israël",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
+    "name1": "Atalanta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/1200px-Logo_Atalanta_Bergame_2024.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "France",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png",
-    "pro": "V2 Et TP (2.5) - OUI"
+    "name2": "Celtic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
+    "pro": "2X"
   },
   {
-    "name1": "Italie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langfr-225px-Flag_of_Italy.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
+    "name1": "Brest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Belgique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/langfr-225px-Flag_of_Belgium_%28civil%29.svg.png",
+    "name2": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Angleterre",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/langfr-225px-Flag_of_England.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
+    "name1": "Atl.Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Grèce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png",
-    "pro": "Score exact: 1:2"
+    "name2": "Lille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_LOSC_Lille_2018.svg",
+    "pro": "Score exact: 1:3"
   },
   {
-    "name1": "Finlande",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
+    "name1": "Barcelona",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Irlande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-225px-Flag_of_Ireland.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Autriche",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-225px-Flag_of_Austria.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
-    "date": "WIN",
-    "name2": "Kazakhstan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Norvège",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
-    "date": "WIN",
-    "name2": "Slovénie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "pro": "V1 Et TP (1.5) - OUI"
-  },
-  {
-    "name1": "Lettonie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/640px-Flag_of_Latvia.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
-    "date": "WIN",
-    "name2": "Macédoine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1200px-Flag_of_North_Macedonia.svg.png",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Îles Féroé",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1280px-Flag_of_the_Faroe_Islands.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
-    "date": "WIN",
-    "name2": "Arménie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2560px-Flag_of_Armenia.svg.png",
-    "pro": "2X"
-  },
-  {
-    "name1": "Gibraltar",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/800px-Flag_of_Gibraltar.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
-    "date": "WIN",
-    "name2": "Saint-Marin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1280px-Flag_of_San_Marino.svg.png",
-    "pro": "12"
-  },
-  {
-    "name1": "Moldavie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_the_Armed_Forces_of_Moldova.svg/800px-Flag_of_the_Armed_Forces_of_Moldova.svg.png",
-    "champ": "Ligue des Nations de l'UEFA",
-    "date": "WIN",
-    "name2": "Andorre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1280px-Flag_of_Andorra.svg.png",
+    "name2": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
     "pro": "Total 1: (+1.5)"
   },
   {
-    "name1": "Bolivie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/1100px-Flag_of_Bolivia_%28state%29.svg.png",
-    "champ": "World Cup",
+    "name1": "Benfica",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Colombie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-225px-Flag_of_Colombia.svg.png",
-    "pro": "V1"
+    "name2": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
+    "pro": "V2"
   },
   {
-    "name1": "Équateur",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png",
-    "champ": "World Cup",
+    "name1": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/2048px-Logo_Manchester_City_2016.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Paraguay",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/2560px-Flag_of_Paraguay.svg.png",
-    "pro": "2X"
+    "name2": "Sparta Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
+    "pro": "V1 Et TP (2.5) - OUI"
+  },
+  {
+    "name1": "Leipzig",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
+    "champ": "UEFA",
+    "date": "WIN",
+    "name2": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "pro": "V2"
+  },
+  {
+    "name1": "RB Salzburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
+    "champ": "UEFA",
+    "date": "WIN",
+    "name2": "Dinamo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dinamo_Zagreb_logo.png",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Young Boys",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
+    "champ": "UEFA",
+    "date": "WIN",
+    "name2": "Inter",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "pro": "V2"
+  },
+  {
+    "name1": "Galatasaray",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Galatasaray_4_Sterne_Logo.svg/800px-Galatasaray_4_Sterne_Logo.svg.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Elfsborg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26ZD49h5NkChJr2EdKr4nRcEehaHqm3mC_A&s",
+    "pro": "Total 1: (+2.5)"
+  },
+  {
+    "name1": "Braga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Bodo Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/1200px-FK_Bodo_Glimt_logo.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Atlético-MG",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Clube_Atl%C3%A9tico_Mineiro.svg",
+    "champ": "Amérique du Sud",
+    "date": "WIN",
+    "name2": "River",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1200px-Escudo_del_C_A_River_Plate.svg.png",
+    "pro": "V1"
   }
   
 ]
