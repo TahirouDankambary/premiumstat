@@ -1,7 +1,7 @@
 [
   {
     "name1": "Brighton",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/8c/Logo_Brighton_Hove_Albion_2011.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_Brighton_Hove_Albion_2011.svg/1200px-Logo_Brighton_Hove_Albion_2011.svg.png",
     "champ": "Angleterre. EFL Cup",
     "date": "WIN",
     "name2": "Liverpool",
@@ -14,7 +14,7 @@
     "champ": "Angleterre. EFL Cup",
     "date": "WIN",
     "name2": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/Logo_Crystal_Palace_FC_-_2022.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "name1": "Frankfurt",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png",
     "champ": "Allemagne. DFB Pokal",
     "date": "WIN",
     "name2": "M'gladbach",
