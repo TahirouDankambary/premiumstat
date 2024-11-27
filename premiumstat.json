@@ -1,110 +1,110 @@
 [
   {
-    "name1": "PSV",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name1": "Sparta Prague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
     "champ": "UEFA",
     "date": "WIN",
-    "name2": "Girona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/1200px-Girona_FC_Logo.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "name2": "Atl. Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
   },
   {
     "name1": "Slovan",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Dinamo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQcT2gOuXKyePVijDwPxp1y0qXEZAwhB-Sw&s",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Bologna",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2d/BolognaFC1909_Old_logo_%281993-2018%29.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "AS Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
-    "pro": "V2"
-  },
-  {
-    "name1": "Dortmund",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_81SnKhCGXDdmYl0N0nlrJ_GHAabwKDMFw&s",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Sturm",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/SK_Sturm_Graz_logo.svg/1200px-SK_Sturm_Graz_logo.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Celtic",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "pro": "Total: (+3.5)"
-  },
-  {
-    "name1": "Lille",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/800px-Logo_LOSC_Lille_2018.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Juventus",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbleEApr-WCEn1C4kB80G_478R4P4ZK0WfvA&s",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Liverpool",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Leverkusen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Real Madrid",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/01/SK_Slovan_Bratislava_logo.svg",
     "champ": "UEFA",
     "date": "WIN",
     "name2": "Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/800px-Logo_of_AC_Milan.svg.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/361px-Logo_of_AC_Milan.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Sporting",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Sporting_Clube_Portugal.svg/1200px-Logo_Sporting_Clube_Portugal.svg.png",
+    "name1": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
     "champ": "UEFA",
     "date": "WIN",
-    "name2": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "pro": "Total: (+3.5)"
+    "name2": "Brest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
+    "pro": "Total 1: (+1.5)"
   },
   {
-    "name1": "Chiclana CF",
-    "photo1": "https://chiclanacf.es/wp-content/uploads/2020/11/cropped-logo-chiclana-cf-1-1.png?w=200",
-    "champ": "Copa del Rey",
+    "name1": "Leverkusen",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M08d2KsKbeouRHIHXcNzQfpwakz2Uk4DPw&s",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Osasuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "pro": "V2"
+    "name2": "RB Salzburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
+    "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Al-Jabalain",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Al_Jabalain_Logo.png/200px-Al_Jabalain_Logo.png",
-    "champ": "Arabie Saoudite",
+    "name1": "Bayern",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXBz9cF1nvzQtgmCTN2gUXgq1dW7ioJR9Bw&s",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Neom SC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLuKYprMhqrpfkhuEsO8MEqRv8pyxoTrAZg&s",
+    "name2": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
     "pro": "V1"
   },
   {
-    "name1": "Al-Jubail",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/2c/Al-Jubail_Club_Logo.png",
-    "champ": "Arabie Saoudite",
+    "name1": "Inter",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "champ": "UEFA",
     "date": "WIN",
-    "name2": "Abha",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Abha_Club_Logo.svg/1200px-Abha_Club_Logo.svg.png",
+    "name2": "Leipzig",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
+    "pro": "V1"
+  },
+  {
+    "name1": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",
+    "champ": "UEFA",
+    "date": "WIN",
+    "name2": "Feyenoord",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXlBEYlHuxbyBNykxIvMBg2tsjHgZYCjiXQ&s",
+    "pro": "Total: (+3.5)"
+  },
+  {
+    "name1": "Sporting",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYh2XIJ78HmjlYelzpCTyV7Lm9UWSIhYobw&s",
+    "champ": "UEFA",
+    "date": "WIN",
+    "name2": "Arsenal",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_Ef-4e8uWAxkUQUVQhmITMzPixdZE4mm0w&s",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Young Boys",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/BSC_Young_Boys_logo.svg/1200px-BSC_Young_Boys_logo.svg.png",
+    "champ": "UEFA",
+    "date": "WIN",
+    "name2": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/800px-AtalantaBC.svg.png",
+    "pro": "Total: (+3.5)"
+  },
+  {
+    "name1": "CP parla",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/59/CP_Parla_Escuela.png",
+    "champ": "Copa del Rey",
+    "date": "WIN",
+    "name2": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
+    "pro": "V2"
+  },
+  {
+    "name1": "Manises",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9f/Manises_CF.png",
+    "champ": "Copa del Rey",
+    "date": "WIN",
+    "name2": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Getafe_%28logo%29.svg",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Fluminense",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/1d/FFC_crest.svg",
+    "champ": "Brésil. Série A",
+    "date": "WIN",
+    "name2": "Criciuma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/640px-EscudoCriciumaEC.svg.png",
     "pro": "2X"
   }
   
