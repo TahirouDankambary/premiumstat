@@ -1,111 +1,111 @@
 [
   {
-    "name1": "Sparta Prague",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
-    "champ": "UEFA",
+    "name1": "Brentford",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Atl. Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Crystal Palace",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/1200px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Forest",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsI7HSAmpTABSDPakh6BvzfxS6te0ITnX4fw&s",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/1200px-Ipswich_Town.svg.png",
+    "pro": "V1"
+  },
+  {
+    "name1": "Wolves",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
     "pro": "V2 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Slovan",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/7/78/20170204220056%21Slovan_Bratislava.png",
-    "champ": "UEFA",
+    "name1": "West Ham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c2/West_Ham_United_FC_logo.svg",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/361px-Logo_of_AC_Milan.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "pro": "V2"
   },
   {
     "name1": "Barcelone",
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "champ": "UEFA",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Brest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
-    "pro": "Total 1: (+1.5)"
+    "name2": "Las Palmas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Logo_UD_Las_Palmas.svg",
+    "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Leverkusen",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M08d2KsKbeouRHIHXcNzQfpwakz2Uk4DPw&s",
-    "champ": "UEFA",
+    "name1": "Alavés",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "RB Salzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
+    "name2": "Leganés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/1200px-Club_Deportivo_Legan%C3%A9s_logo.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Espagnol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Celta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
     "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Bayern",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXBz9cF1nvzQtgmCTN2gUXgq1dW7ioJR9Bw&s",
-    "champ": "UEFA",
+    "name1": "Real Valladolid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Logo_Real_Valladolid_CF_1998.svg/1200px-Logo_Real_Valladolid_CF_1998.svg.png",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Inter",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Leipzig",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "pro": "V1"
-  },
-  {
-    "name1": "Man City",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Feyenoord",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXlBEYlHuxbyBNykxIvMBg2tsjHgZYCjiXQ&s",
+    "name2": "Atl. Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
     "pro": "Total: (+3.5)"
   },
   {
-    "name1": "Sporting",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYh2XIJ78HmjlYelzpCTyV7Lm9UWSIhYobw&s",
-    "champ": "UEFA",
+    "name1": "Union Berlin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Arsenal",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_Ef-4e8uWAxkUQUVQhmITMzPixdZE4mm0w&s",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Young Boys",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/BSC_Young_Boys_logo.svg/1200px-BSC_Young_Boys_logo.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/800px-AtalantaBC.svg.png",
-    "pro": "Total: (+3.5)"
-  },
-  {
-    "name1": "CP parla",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/59/CP_Parla_Escuela.png",
-    "champ": "Copa del Rey",
-    "date": "WIN",
-    "name2": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
+    "name2": "Leverkusen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M08d2KsKbeouRHIHXcNzQfpwakz2Uk4DPw&s",
     "pro": "V2"
   },
   {
-    "name1": "Manises",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9f/Manises_CF.png",
-    "champ": "Copa del Rey",
+    "name1": "Augsburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1570px-FC_Augsburg_-_Logo.svg.png",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/800px-Getafe_%28logo%29.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "name2": "Bochum",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
+    "pro": "V1"
   },
   {
-    "name1": "Fluminense",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/800px-FFC_crest.svg.png",
-    "champ": "Brésil. Série A",
+    "name1": "Leipzig",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Criciuma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/640px-EscudoCriciumaEC.svg.png",
-    "pro": "2X"
+    "name2": "Wolfsburg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTSGzcSSLxYmr-SGus-5kiTUrg6kkcB0Ing&s",
+    "pro": "Total 2: (+2.5)"
   }
   
 ]
