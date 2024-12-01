@@ -37,7 +37,7 @@
   },
   {
     "name1": "West Ham",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c2/West_Ham_United_FC_logo.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
     "champ": "Angleterre. Premier League",
     "date": "WIN",
     "name2": "Arsenal",
@@ -50,7 +50,7 @@
     "champ": "Espagne. LaLiga",
     "date": "WIN",
     "name2": "Las Palmas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Logo_UD_Las_Palmas.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/1200px-UD_Las_Palmas_logo.svg.png",
     "pro": "Total: (+2.5)"
   },
   {
@@ -82,7 +82,7 @@
   },
   {
     "name1": "Union Berlin",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiJGvgfq2fF_128W0P2rD3Rj_6z20ZZL0zA&s",
     "champ": "Allemagne. Bundesliga",
     "date": "WIN",
     "name2": "Leverkusen",
