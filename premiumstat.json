@@ -1,111 +1,111 @@
 [
   {
-    "name1": "Eldense",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
-    "champ": "Espagne. Coupe du Roi",
+    "name1": "Brentford",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "name2": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "pro": "Total: (+3.4)"
   },
   {
-    "name1": "Tenerife",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CD_Tenerife_logo.svg/1200px-CD_Tenerife_logo.svg.png",
-    "champ": "Espagne. LaLiga 2",
+    "name1": "Chelsea",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Levante",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Levante_UD_2023.svg/1200px-Logo_Levante_UD_2023.svg.png",
+    "name2": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
     "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Fleury",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_FC_Fleury_91_-_2023.svg/1200px-Logo_FC_Fleury_91_-_2023.svg.png",
-    "champ": "France. Ligue 1",
+    "name1": "West Ham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/1845px-West_Ham_United_FC_logo.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "pro": "1X"
+    "name2": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Al-Taawoun",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Al_Taawoun_FC_Logo.svg/1200px-Al_Taawoun_FC_Logo.svg.png",
-    "champ": "Arabie Saoudite",
+    "name1": "Forest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Al-Qadsiah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al-Qadsiah_Logo.svg/1200px-Al-Qadsiah_Logo.svg.png",
-    "pro": "V2 Et TP(2.5) - OUI"
+    "name2": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Al-Hilal",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
-    "champ": "Arabie Saoudite",
+    "name1": "Como",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/464px-Logo_Como_1907_2019.png",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "Al-Ittihad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Al-Ittihad_Club_%28Jeddah%29_logo.svg/1200px-Al-Ittihad_Club_%28Jeddah%29_logo.svg.png",
+    "name2": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1306px-Logo_of_AC_Milan.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Arsenal",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "champ": "Angleterre. EFL Cup",
+    "name1": "Atalanta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/800px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Juventus",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Kiel",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
+    "champ": "Allemagne. Bundesliga",
+    "date": "WIN",
+    "name2": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
     "pro": "Total 2: (+1.5)"
   },
   {
-    "name1": "Duckworth J.",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Duckworth_WMQ16_%2820%29_%2828133900741%29.jpg/1200px-Duckworth_WMQ16_%2820%29_%2828133900741%29.jpg",
-    "champ": "Tennis. ATP 250",
+    "name1": "Leverkusen",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Li Tu.",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tu_RGQ23_%2852942973432%29.jpg/220px-Tu_RGQ23_%2852942973432%29.jpg",
-    "pro": "V2"
-  },
-  {
-    "name1": "Guinard M.",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Guinard_RGQ19_%2817%29_%2848002690531%29.jpg/1200px-Guinard_RGQ19_%2817%29_%2848002690531%29.jpg",
-    "champ": "Tennis. ATP 250",
-    "date": "WIN",
-    "name2": "Safiullin R.",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Safiullin_MLC21_%2851602479998%29.jpg/250px-Safiullin_MLC21_%2851602479998%29.jpg",
+    "name2": "Mainz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/d6/FSV_Mainz_05_Logo.png",
     "pro": "V1"
   },
   {
-    "name1": "Vukić A.",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vukic_RGQ23.jpg/200px-Vukic_RGQ23.jpg",
-    "champ": "Tennis. ATP 250",
+    "name1": "Frankfurt",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvL910vfJ0xQkAJSx70djt4FysdDoGKd1qgg&s",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Giron M.",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Giron_RGQ19_%2842%29_%2848002686247%29.jpg",
+    "name2": "Freiburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Wolfsburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/768px-Logo-VfL-Wolfsburg.svg.png",
+    "champ": "Allemagne. Bundesliga",
+    "date": "WIN",
+    "name2": "M'gladbach",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/376px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+    "pro": "Total: (+3.5)"
+  },
+  {
+    "name1": "Leyton Orient",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1200px-Leyton_Orient_F.C._logo.svg.png",
+    "champ": "Angleterre. FA Cup",
+    "date": "WIN",
+    "name2": "Derby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/1200px-Logo_Derby_County_2012.svg.png",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "name1": "Mansfield",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Mansfield_Town_FC.svg/1200px-Mansfield_Town_FC.svg.png",
+    "champ": "Angleterre. FA Cup",
+    "date": "WIN",
+    "name2": "Wigan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1200px-Logo_Wigan_Athletic.svg.png",
     "pro": "V2"
-  },
-  {
-    "name1": "Bublik A.",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClmuI29o-1ajfeJWMUaXwKP0Rc5yB0ByqVQ&s",
-    "champ": "Tennis. ATP 250",
-    "date": "WIN",
-    "name2": "Kecmanović M.",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kecmanovic_RG19_%2842%29_%2848199200981%29.jpg/200px-Kecmanovic_RG19_%2842%29_%2848199200981%29.jpg",
-    "pro": "V2"
-  },
-  {
-    "name1": "Sabres",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Buffalo_Sabres_Logo.svg/1200px-Buffalo_Sabres_Logo.svg.png",
-    "champ": "Hockey. NHL",
-    "date": "WIN",
-    "name2": "Capitals",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_des_Capitals_de_Washington_2007.svg/1200px-Logo_des_Capitals_de_Washington_2007.svg.png",
-    "pro": "Total: (+5.5)"
-  },
-  {
-    "name1": "Canadiens",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Canadiens_de_Montreal.svg/2560px-Canadiens_de_Montreal.svg.png",
-    "champ": "Hockey. NHL",
-    "date": "WIN",
-    "name2": "Canucks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_des_Canucks_de_Vancouver_2007.svg/1200px-Logo_des_Canucks_de_Vancouver_2007.svg.png",
-    "pro": "Total 1: (+4.5)"
   }
   
 ]
