@@ -1,129 +1,129 @@
 [
   {
-    "name1": "Fulham",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
-    "champ": "Angleterre. FA Cup",
+    "name1": "Man City",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPxl5-696LpE8DDPWoN5JV9EE-C0VI9SOuFA&s",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
     "name2": "Crystal Palace",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "pro": "Total 2: (+1.5)"
+    "pro": "V1 Et TP(2.5) - OUI"
   },
   {
     "name1": "Brighton",
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "champ": "Angleterre. FA Cup",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Forest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Nottingham_Forest_logo.svg/1200px-Nottingham_Forest_logo.svg.png",
-    "pro": "2X"
+    "name2": "Leicester",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-McZGEj_cTZeu7_BbVhFg3r5nd4tuwVadxQ&s",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Real Sociedad",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Forest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/962px-Logo_Nottingham_Forest_FC.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Real Valladolid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/1200px-Logo_Real_Valladolid_CF_2024.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "pro": "V2"
   },
   {
-    "name1": "Alavés",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Southampton",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Rayo Vallecano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+    "name2": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/800px-Aston_Villa_FC_2024.svg.png",
     "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "name1": "Espagnol",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Atl. Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+    "name2": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Real Madrid",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name1": "Real Sociedad",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxNtH0h3Bay_K1k6YuFxm1ms5Q4p1STrVFQ&s",
     "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Leganés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "name2": "Mallorca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "name1": "Getafe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Las Palmas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Celta",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWcj-2c6ItX0u6MRWohWoLB60xjqkDB-RAA&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Espagnol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Leverkusen",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "champ": "Allemagne. Bundesliga",
+    "date": "WIN",
+    "name2": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "pro": "1X"
   },
   {
     "name1": "M'gladbach",
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYuHI87Os5qSKd8YApxOyA3K4ycwR9FoNQ&s",
     "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Bayern",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "St. Pauli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/1200px-FC_St._Pauli_logo_%282018%29.svg.png",
-    "pro": "Total: (+3.5)"
+    "name2": "Freiburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/800px-SC_Freiburg_%28logo%29.svg.png",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
     "name1": "Kiel",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
     "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Bremen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7ICY_4Uno-KUhxdka1nKobZQfNNZ39wZ1Q&s",
-    "pro": "2X Et TP(2.5) - OUI"
+    "name2": "St.Pauli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/800px-FC_St._Pauli_%28logo%29.svg.png",
+    "pro": "Total 2: (+1.5)"
   },
   {
     "name1": "Hoffenheim",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9NDtpFrq6vz4gf_8EcK13aVWJTjRxYwZsw&s",
+    "champ": "Allemagne. Bundesliga",
+    "date": "WIN",
+    "name2": "Mainz 05",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "pro": "1X"
+  },
+  {
+    "name1": "Bochum",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
     "champ": "Allemagne. Bundesliga",
     "date": "WIN",
     "name2": "Augsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/1200px-FC_Augsburg_logo.svg.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Wolfsburg",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Heidenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/1200px-1._FC_Heidenheim_1846.svg.png",
-    "pro": "Total 2: (+0.5)"
-  },
-  {
-    "name1": "Frankfurt",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Como",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/800px-Logo_Como_1907_2019.png",
-    "champ": "Italie. Série A",
-    "date": "WIN",
-    "name2": "Empoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Empoli_FC_crest.svg/1200px-Empoli_FC_crest.svg.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Venizia",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD3ZzWhkOjP77oklT73ydXv0v8c92HQN_EQA&s",
-    "champ": "Italie. Série A",
+    "name1": "Bayern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/1200px-Bologna_F.C._1909_logo.svg.png",
-    "pro": "V2"
+    "name2": "Dortmund",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AgTf1GLhWCLeIk-aztt5G9nyUNRYC1V-4A&s",
+    "pro": "Deux équipes vont marquer: OUI"
   }
   
 ]
