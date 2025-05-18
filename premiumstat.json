@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Crystal Palace",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "champ": "Angleterre. FA Cup",
+    "name1": "Everton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Everton_FC_2024.svg/langfr-250px-Logo_Everton_FC_2024.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "pro": "V1"
+    "name2": "Southampton",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Heidenheim",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/1200px-1._FC_Heidenheim_1846.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "West Ham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Bremen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/800px-Logo_Werder_Bremen_2024.svg.png",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Mainz 05",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Leverkusen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name2": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/962px-Logo_Nottingham_Forest_FC.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Dortmund",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Brentford",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Kiel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
+    "name2": "Fulham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Leicester",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Ipswich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
+    "pro": "1X"
+  },
+  {
+    "name1": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
     "pro": "V1"
   },
   {
-    "name1": "M'gladbach",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/langfr-250px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Atl.Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Wolfsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "name2": "Real Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Villarreal",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "pro": "Total 1: (+1.5)"
+  },
+  {
+    "name1": "Celta",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWcj-2c6ItX0u6MRWohWoLB60xjqkDB-RAA&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Rayo Vallecano",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmp0QEYtwrZ1OlgR0UDVALCSkouk_ErbAJIQ&s",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Las Palmas",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Leganés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
     "pro": "2X"
   },
   {
-    "name1": "Augsbourg",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Mallorca",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUM7Zjen1qBxgHJfsLJg7FAAVuEDZneNj_Q&s",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Union Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "pro": "2X Et TP(2.5) - OUI"
   },
   {
-    "name1": "St.Pauli",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/800px-FC_St._Pauli_%28logo%29.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Osasuna",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3BjXvCCF52i7_l4Fzo-qBZI06iBJt2w_MQ&s",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Bochum",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
+    "name2": "Espanyol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Logo_RCD_Espanyol_Barcelona_2005.svg/120px-Logo_RCD_Espanyol_Barcelona_2005.svg.png",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "name1": "Real Sociedad",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Girona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/langfr-250px-Logo_Girona_FC_-_2022.svg.png",
+    "pro": "Deux equipes vont marquer: OUI"
+  },
+  {
+    "name1": "Real Valladolid",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lctoayJUKcQbm8NakCaDwcYszsetV7IgOA&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Alavés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Seville",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgY1xt4YDlktoFld2bLkIMLrNNt0oj0dPuCg&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Real Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
     "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Leipzig",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Freiburg",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Hoffenheim",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/800px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Genoa",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "champ": "Italie. Série A",
-    "date": "WIN",
-    "name2": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/1200px-Logo_Atalanta_Bergame_2024.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "C.O'Connell",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeqLi9WCdmyTAggnpjrfZHlMrW0h6UHXdAA&s",
-    "champ": "Tennis. ATP 500",
-    "date": "WIN",
-    "name2": "E.Ymer",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ymer_WMQ23_%2853062069610%29.jpg",
-    "pro": "V2"
-  },
-  {
-    "name1": "D.Yevseyev",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNUa9HEiorDGacbBAtAq8TsrfiaqE4NKeDQ&s",
-    "champ": "Tennis. ATP 500",
-    "date": "WIN",
-    "name2": "V.Sachko",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sachko_WMQ22_%288%29_-_52191377479.jpg",
-    "pro": "Total sets: (+2.5)"
-  },
-  {
-    "name1": "A.Vukic",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vukic_RGQ23.jpg/250px-Vukic_RGQ23.jpg",
-    "champ": "Tennis. ATP 500",
-    "date": "WIN",
-    "name2": "D.Kuzmanov",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/D._Kuzmanov_at_Sofia_Open_2016.jpg/250px-D._Kuzmanov_at_Sofia_Open_2016.jpg",
-    "pro": "Total sets: (+2.5)"
   },
     {
-    "name1": "M.Topo",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1fGPDB_fDoYt5rmdr3NpXMa5PUoED59X6Q&s",
-    "champ": "Tennis. ATP 500",
+    "name1": "Valencia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "E.Nava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Munoz_de_la_Nava_WMQ15_%284%29_%2819944383272%29.jpg/1200px-Munoz_de_la_Nava_WMQ15_%284%29_%2819944383272%29.jpg",
-    "pro": "Jeu décisif: NON"
+    "name2": "Athletic Club",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/120px-Logo_Athletic_Club_Bilbao.svg.png",
+    "pro": "12"
   },
    {
-    "name1": "A.Kovacevic",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kovacevic_WMQ23_%2853062093080%29.jpg",
-    "champ": "Tennis. ATP 500",
+    "name1": "Cagliari",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "M.Wiskandt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Duckworth_WMQ23_%2853062101305%29.jpg",
-    "pro": "Jeu décisif: OUI"
+    "name2": "Venezia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Logo_Venezia_FC_-_2022.svg/1200px-Logo_Venezia_FC_-_2022.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
   },
      {
-    "name1": "R.Collignon",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/15/Collignon_RGQ23_%2852944022815%29.jpg",
-    "champ": "Tennis. ATP 500",
+    "name1": "Fiorentina",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "P.Zahraj",
-    "photo2": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuclabruins.com%2Fimages%2F2020%2F2%2F20%2FZahraj_Patrick_20200126_MTEN_SC0403.jpg&height=300&type=webp",
-    "pro": "Jeu décisif: OUI"
+    "name2": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "pro": "Total: (+2.5)"
   },
    {
-    "name1": "D.D.D.Silva",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dutra_Silva_WMQ14_%2823%29_%2814420413039%29.jpg/1200px-Dutra_Silva_WMQ14_%2823%29_%2814420413039%29.jpg",
-    "champ": "Tennis. ATP 500",
+    "name1": "Verona",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "M.Rehberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nakashima_RG22_%2822%29_%2852144560990%29.jpg/250px-Nakashima_RG22_%2822%29_%2852144560990%29.jpg",
+    "name2": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_Como_1907_-_2019.svg/1200px-Logo_Como_1907_-_2019.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+   {
+    "name1": "Inter Milan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "champ": "Italie. Série A",
+    "date": "WIN",
+    "name2": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+     {
+    "name1": "Juventus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
+    "champ": "Italie. Série A",
+    "date": "WIN",
+    "name2": "Udinese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
     "pro": "V1"
-  },
-   {
-    "name1": "M.Petkovic",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rojer_MCM23_%286%29_%2852883307204%29.jpg/1200px-Rojer_MCM23_%286%29_%2852883307204%29.jpg",
-    "champ": "Tennis. ATP 500",
-    "date": "WIN",
-    "name2": "B.Gojo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gojo_MLC21.jpg",
-    "pro": "Total sets: (+2.5)"
-  },
-     {
-    "name1": "L.Borg",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bj%C3%B6rn_Borg.jpg",
-    "champ": "Tennis. ATP 250",
-    "date": "WIN",
-    "name2": "S.Ofner",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ofner_RGQ23.jpg/1200px-Ofner_RGQ23.jpg",
-    "pro": "Jeu décisif: NON"
   }
 ]
