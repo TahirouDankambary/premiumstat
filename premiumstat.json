@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Allemagne",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Germany_%283-2%29.svg/250px-Flag_of_Germany_%283-2%29.svg.png",
-    "champ": "UEFA Nations League",
+    "name1": "Al Ahly",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXkydxuw7nudOR4VrF9ZwtMPy2UH7p03t8A&s",
+    "champ": "FIFA club World Cup",
     "date": "WIN",
-    "name2": "France",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "name2": "Inter Miami",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eYZ7w2lSig2f5eyc34ZgB3JExO4e7gG-sw&s",
+    "pro": "2X"
   },
   {
-    "name1": "Portugal",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
-    "champ": "UEFA Nations League",
+    "name1": "Palmeiras",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1200px-Palmeiras_logo.svg.png",
+    "champ": "FIFA club World Cup",
     "date": "WIN",
-    "name2": "Espagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
+    "name2": "Porto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "PSG",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "champ": "FIFA club World Cup",
+    "date": "WIN",
+    "name2": "Atl.Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Bayern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "champ": "FIFA club World Cup",
+    "date": "WIN",
+    "name2": "Auckland City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/New_Auckland_City_FC_logo_%28updated_2022%29.png/250px-New_Auckland_City_FC_logo_%28updated_2022%29.png",
+    "pro": "V1 Et TP(3.5) - OUI"
+  },
+  {
+    "name1": "Fredrikstad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/1200px-Fredrikstad_FK_%28logo%29.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Sandefjord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Sandefjord_Fotball.svg/1200px-Logo_Sandefjord_Fotball.svg.png",
+    "pro": "Total 1: (+1.5)"
+  },
+  {
+    "name1": "Bodo Glimt",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/1200px-FK_Bodo_Glimt_logo.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "AIK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Logo_AIK_2023.svg/1200px-Logo_AIK_2023.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Asko SV Murfeld",
+    "photo1": "https://tmssl.akamaized.net//images/wappen/big/43010.png?lm=1434405990",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "SC Seiersberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_Shoppingcity_Seiersberg_%282023%29.svg/1024px-Logo_Shoppingcity_Seiersberg_%282023%29.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Malte",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Malta_%28variant%29.svg/1200px-Flag_of_Malta_%28variant%29.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Molde",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR457Dk65kiPmF-toQFptnHLfVTkP-WjAFGcg&s",
+    "champ": "Club Friendly Games",
     "date": "WIN",
-    "name2": "Lituanie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhuE-MhYjE1lbJMpso8wEvz-Zfy1CQMU8LQ&s",
+    "name2": "Varnamo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1YM72hdXKjXX35ffRvevIMuXmIik__3_1Q&s",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Angleterre U21",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
+    "champ": "U21 European Championship",
+    "date": "WIN",
+    "name2": "Slovénie U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
     "pro": "1X"
   },
   {
-    "name1": "Finlande",
+    "name1": "Finlande U21",
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/langfr-250px-Flag_of_Finland.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "champ": "U21 European Championship",
     "date": "WIN",
-    "name2": "Pays-Bas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/langfr-250px-Flag_of_the_Netherlands.svg.png",
+    "name2": "Ukraine U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
     "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "name1": "Bosnie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/800px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Pays-Bas U21",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+    "champ": "U21 European Championship",
     "date": "WIN",
-    "name2": "Saint-Marin",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_TPlvAFXK-0Q-7zGj3c_vu0h1jb3VPnoIg&s",
-    "pro": "Total 1: (+0.5)"
-  },
-  {
-    "name1": "Autriche",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2560px-Flag_of_Austria.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Roumanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/langfr-250px-Flag_of_Romania.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Andorre",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/langfr-250px-Flag_of_Andorra.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Angleterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/langfr-250px-Flag_of_England.svg.png",
-    "pro": "V2"
-  },
-  {
-    "name1": "Albanie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Serbie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png",
-    "pro": "2X"
-  },
-  {
-    "name1": "Îles Caïmans",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/1200px-Flag_of_the_Cayman_Islands.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Honduras",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Honduras_%282022-%29.svg/1200px-Flag_of_Honduras_%282022-%29.svg.png",
-    "pro": "V2"
-  },
-  {
-    "name1": "Bahamas",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwFf2ABzfoJo9qLnD7OkS3Hms39s3m5LmIA&s",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Costa Rica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Aruba",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/1200px-Flag_of_Aruba.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Haïti",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkD4CsADDO9h0tJE8M4rokWrUtRdq_8tX07Q&s",
+    "name2": "Danemark U21",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
     "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Nicaragua",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1200px-Flag_of_Nicaragua.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Madagascar",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/2560px-Flag_of_Madagascar.svg.png",
+    "champ": "COSAFA Cup",
     "date": "WIN",
-    "name2": "Guyana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1200px-Flag_of_Guyana.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Guatemala",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQu7wJ80wggxa3A7_pqdHa0d05K_VGCd64w&s",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "République Dominicaine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/langfr-250px-Flag_of_the_Dominican_Republic.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Îles Vierges",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/960px-Flag_of_the_British_Virgin_Islands.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Jamaïque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1200px-Flag_of_Jamaica.svg.png",
+    "name2": "Comores",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png",
     "pro": "V2"
+  },
+  {
+    "name1": "Angola",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGOKqCUfp9aEWtUoYiCW2OoU_JlUQ1bHHww&s",
+    "champ": "COSAFA Cup",
+    "date": "WIN",
+    "name2": "Afrique du Sud",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-250px-Flag_of_South_Africa.svg.png",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Burundi",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvAPdoM6fuUqk9XCoNWgtW8GzoSgcHk9B2Q&s",
+    "champ": "CECAFA Women's",
+    "date": "WIN",
+    "name2": "Kenya",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/2560px-Flag_of_Kenya.svg.png",
+    "pro": "2X Et TP(2.5) - OUI"
   },
     {
-    "name1": "Anguilla",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/1200px-Flag_of_Anguilla.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Soudan du Sud",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_the_President_of_South_Sudan.svg",
+    "champ": "CECAFA Women's",
     "date": "WIN",
-    "name2": "Salvador",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png",
-    "pro": "2X Et TP(1.5) - OUI"
+    "name2": "Ouganda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/2560px-Flag_of_Uganda.svg.png",
+    "pro": "Total: (+2.5)"
   },
    {
-    "name1": "Lettonie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "name1": "Mexique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png",
+    "champ": "CONCACAF Gold Cup",
     "date": "WIN",
-    "name2": "Azerbaïdjan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",
-    "pro": "2X"
-  },
-     {
-    "name1": "Kenya",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwS17xSKdgOnM8Sv2gGVNhPPGh4X5xJe8MQ&s",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Tchad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/250px-Flag_of_Chad.svg.png",
-    "pro": "2X"
-  },
-   {
-    "name1": "Danemark",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Irlande du Nord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/2560px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
+    "name2": "République Dominicaine",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/2560px-Flag_of_the_Dominican_Republic.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
-   {
-    "name1": "Grèce",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/langfr-250px-Flag_of_Greece.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+     {
+    "name1": "États-Unis",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
+    "champ": "CONCACAF Gold Cup",
     "date": "WIN",
-    "name2": "Slovaquie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png",
-    "pro": "Total: (+2.5)"
+    "name2": "Trinité-et-Tobago",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/langfr-250px-Flag_of_Trinidad_and_Tobago.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+   {
+    "name1": "Mirandés",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSH_-i_xfN_NiMk5FO0bT6kxzTtskX6NAOw&s",
+    "champ": "Espagne. Liga 2",
+    "date": "WIN",
+    "name2": "Real Oviedo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "pro": "1X"
+  },
+   {
+    "name1": "FC Andorra",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_FC_Andorra_-_2021.svg/1200px-Logo_FC_Andorra_-_2021.svg.png",
+    "champ": "Primera EFEF",
+    "date": "WIN",
+    "name2": "Ponferradina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Logo_SD_Ponferradina_-_2021.svg/1200px-Logo_SD_Ponferradina_-_2021.svg.png",
+    "pro": "Total: (+1.5)"
   },
      {
-    "name1": "Canada",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "name1": "Sampdoria",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
+    "champ": "Italie. Série B",
     "date": "WIN",
-    "name2": "Ukraine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
-    "pro": "Total: (+2.5)"
+    "name2": "Salernitana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Unione_Sportiva_Salernitana_1919_%28logo%29.svg/1200px-Unione_Sportiva_Salernitana_1919_%28logo%29.svg.png",
+    "pro": "V1"
   }
 ]
