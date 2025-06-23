@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Al Ahly",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXkydxuw7nudOR4VrF9ZwtMPy2UH7p03t8A&s",
+    "name1": "River Plate",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1200px-Escudo_del_C_A_River_Plate.svg.png",
     "champ": "FIFA club World Cup",
     "date": "WIN",
-    "name2": "Inter Miami",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eYZ7w2lSig2f5eyc34ZgB3JExO4e7gG-sw&s",
+    "name2": "Monterrey",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Club_de_F%C3%BAtbol_Monterrey_2019_Logo.svg/1200px-Club_de_F%C3%BAtbol_Monterrey_2019_Logo.svg.png",
     "pro": "2X"
   },
   {
-    "name1": "Palmeiras",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1200px-Palmeiras_logo.svg.png",
+    "name1": "Juventus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/800px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
     "champ": "FIFA club World Cup",
     "date": "WIN",
-    "name2": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
-    "pro": "2X"
-  },
-  {
-    "name1": "PSG",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "champ": "FIFA club World Cup",
-    "date": "WIN",
-    "name2": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+    "name2": "WAC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_Wydad_AC_2022.svg/langfr-250px-Logo_Wydad_AC_2022.svg.png",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Bayern",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Real Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/800px-Logo_Real_Madrid.svg.png",
     "champ": "FIFA club World Cup",
     "date": "WIN",
-    "name2": "Auckland City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/New_Auckland_City_FC_logo_%28updated_2022%29.png/250px-New_Auckland_City_FC_logo_%28updated_2022%29.png",
-    "pro": "V1 Et TP(3.5) - OUI"
-  },
-  {
-    "name1": "Fredrikstad",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/1200px-Fredrikstad_FK_%28logo%29.svg.png",
-    "champ": "Club Friendly Games",
-    "date": "WIN",
-    "name2": "Sandefjord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Sandefjord_Fotball.svg/1200px-Logo_Sandefjord_Fotball.svg.png",
-    "pro": "Total 1: (+1.5)"
-  },
-  {
-    "name1": "Bodo Glimt",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/1200px-FK_Bodo_Glimt_logo.svg.png",
-    "champ": "Club Friendly Games",
-    "date": "WIN",
-    "name2": "AIK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Logo_AIK_2023.svg/1200px-Logo_AIK_2023.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Asko SV Murfeld",
-    "photo1": "https://tmssl.akamaized.net//images/wappen/big/43010.png?lm=1434405990",
-    "champ": "Club Friendly Games",
-    "date": "WIN",
-    "name2": "SC Seiersberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_Shoppingcity_Seiersberg_%282023%29.svg/1024px-Logo_Shoppingcity_Seiersberg_%282023%29.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Molde",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR457Dk65kiPmF-toQFptnHLfVTkP-WjAFGcg&s",
-    "champ": "Club Friendly Games",
-    "date": "WIN",
-    "name2": "Varnamo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1YM72hdXKjXX35ffRvevIMuXmIik__3_1Q&s",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Angleterre U21",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
-    "champ": "U21 European Championship",
-    "date": "WIN",
-    "name2": "Slovénie U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Finlande U21",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/langfr-250px-Flag_of_Finland.svg.png",
-    "champ": "U21 European Championship",
-    "date": "WIN",
-    "name2": "Ukraine U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Pays-Bas U21",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
-    "champ": "U21 European Championship",
-    "date": "WIN",
-    "name2": "Danemark U21",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Madagascar",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/2560px-Flag_of_Madagascar.svg.png",
-    "champ": "COSAFA Cup",
-    "date": "WIN",
-    "name2": "Comores",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png",
-    "pro": "V2"
-  },
-  {
-    "name1": "Angola",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGOKqCUfp9aEWtUoYiCW2OoU_JlUQ1bHHww&s",
-    "champ": "COSAFA Cup",
-    "date": "WIN",
-    "name2": "Afrique du Sud",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-250px-Flag_of_South_Africa.svg.png",
+    "name2": "Pachuca",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ssnToMZFgYip9_SSQr6eOL6vQFn-qkKZeQ&s",
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "name1": "Burundi",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvAPdoM6fuUqk9XCoNWgtW8GzoSgcHk9B2Q&s",
-    "champ": "CECAFA Women's",
+    "name1": "RB Salzburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/1200px-FC_Red_Bull_Salzburg_logo.svg.png",
+    "champ": "FIFA club World Cup",
     "date": "WIN",
-    "name2": "Kenya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/2560px-Flag_of_Kenya.svg.png",
+    "name2": "Al-Hilal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Fujieda",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Fujieda_MYFC_logo.svg/250px-Fujieda_MYFC_logo.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Shimizu",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Shimizu_S-Pulse_logo.svg/250px-Shimizu_S-Pulse_logo.svg.png",
+    "pro": "Total 1: (+0.5)"
+  },
+  {
+    "name1": "Ciudad de Plasencia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Ciudad_de_Plasencia_CF.png/250px-Ciudad_de_Plasencia_CF.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "CP Montehermoso",
+    "photo2": "https://footballlogosandkits.com/images_esc3/ESPA/EXTREMADURA/escudos/ESC_C.P.%20MONTEHERMOSO.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "St.Pauli U23",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqMluCtgpn20miVEsD9Irj_9HN1kmCU-1Lg&s",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "HEBC Hamburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/HEBC_Logo.png/250px-HEBC_Logo.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Baltika",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1200px-FC_Baltika_Kaliningrad_Logo.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Zenit 2",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
+    "pro": "V2"
+  },
+  {
+    "name1": "Rosenheim",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TSV_1860_Rosenheim_Logo.svg/1200px-TSV_1860_Rosenheim_Logo.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Burghausen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wacker_Burghausen.svg/langfr-250px-Wacker_Burghausen.svg.png",
+    "pro": "1X"
+  },
+  {
+    "name1": "Pössneck",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/VfB_P%C3%B6%C3%9Fneck.png/250px-VfB_P%C3%B6%C3%9Fneck.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Zwickau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_FSV_Zwickau.svg/1200px-Logo_FSV_Zwickau.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "CSKA 1948 Sofia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/CSKA_1948_new_logo.png/150px-CSKA_1948_new_logo.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Drita",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/800px-FC_Drita.svg.png",
+    "pro": "1X"
+  },
+  {
+    "name1": "Buchbach",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TSV_Buchbach.svg/1200px-TSV_Buchbach.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Unterhaching",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/SpVgg_Unterhaching_logo.svg/1200px-SpVgg_Unterhaching_logo.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Vojvodina",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/FK_Vojvodina_%28logo%29.svg/1200px-FK_Vojvodina_%28logo%29.svg.png",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Mladost",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Mladost_Lu%C4%8Dani_2024.svg/1200px-Logo_Mladost_Lu%C4%8Dani_2024.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Spartak",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/3/38/20121213151505%21Logo_de_%C5%BDOK_Spartak.jpg",
+    "champ": "Club Friendly Games",
+    "date": "WIN",
+    "name2": "Rodina Moscow",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpm9qHsm4reCtDK1ZnCE04AGf8aisumggKag&s",
     "pro": "2X Et TP(2.5) - OUI"
   },
     {
-    "name1": "Soudan du Sud",
-    "photo1": "https://img.freepik.com/vecteurs-premium/drapeau-du-soudan-du-sud-drapeau-etat-realiste-fete-independance-republique-du-soudan-du-sud_650465-314.jpg",
-    "champ": "CECAFA Women's",
+    "name1": "Atlante",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Atlante_FC_2022_Logo.svg/1200px-Atlante_FC_2022_Logo.svg.png",
+    "champ": "Club Friendly Games",
     "date": "WIN",
-    "name2": "Ouganda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/2560px-Flag_of_Uganda.svg.png",
-    "pro": "Total: (+2.5)"
+    "name2": "Cruz Azul",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Club_de_Futbol_Cruz_Azul.svg/1200px-Club_de_Futbol_Cruz_Azul.svg.png",
+    "pro": "V1"
   },
    {
-    "name1": "Mexique",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png",
-    "champ": "CONCACAF Gold Cup",
+    "name1": "Danemark U21",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png",
+    "champ": "U21 European",
     "date": "WIN",
-    "name2": "République Dominicaine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/2560px-Flag_of_the_Dominican_Republic.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "France U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
+    "pro": "2X Et TP(1.5) - OUI"
   },
      {
-    "name1": "États-Unis",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
-    "champ": "CONCACAF Gold Cup",
+    "name1": "Allemagne U21",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
+    "champ": "U21 European",
     "date": "WIN",
-    "name2": "Trinité-et-Tobago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/langfr-250px-Flag_of_Trinidad_and_Tobago.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "name2": "Italie U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Italy_%28Pantone%2C_2006%29.svg/250px-Flag_of_Italy_%28Pantone%2C_2006%29.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
   },
    {
-    "name1": "Mirandés",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSH_-i_xfN_NiMk5FO0bT6kxzTtskX6NAOw&s",
-    "champ": "Espagne. Liga 2",
+    "name1": "Real Sociedad B",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
+    "champ": "Espagne. Primera RFEF",
     "date": "WIN",
-    "name2": "Real Oviedo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "pro": "1X"
-  },
-   {
-    "name1": "FC Andorra",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_FC_Andorra_-_2021.svg/1200px-Logo_FC_Andorra_-_2021.svg.png",
-    "champ": "Primera EFEF",
-    "date": "WIN",
-    "name2": "Ponferradina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Logo_SD_Ponferradina_-_2021.svg/1200px-Logo_SD_Ponferradina_-_2021.svg.png",
+    "name2": "Gimnastic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Logo_Club_Gimn%C3%A0stic_de_Tarragona.svg/1200px-Logo_Club_Gimn%C3%A0stic_de_Tarragona.svg.png",
     "pro": "Total: (+1.5)"
   },
-     {
-    "name1": "Sampdoria",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
-    "champ": "Italie. Série B",
+   {
+    "name1": "Gungahlin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/52/Gungahlin_United_FC_logo.png",
+    "champ": "Australie. Capital NPL",
     "date": "WIN",
-    "name2": "Salernitana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Unione_Sportiva_Salernitana_1919_%28logo%29.svg/1200px-Unione_Sportiva_Salernitana_1919_%28logo%29.svg.png",
+    "name2": "Tigers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Wests_Tigers_2022_Logo.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+     {
+    "name1": "Tuggeranong",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/8b/Tuggeranong_United_FC_Logo.png",
+    "champ": "Australie. Capital NPL",
+    "date": "WIN",
+    "name2": "Yoogali SC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwOQU7JlQ5tvrPYfg-UNat7Q5DczU5Sl5qg&s",
     "pro": "V1"
   }
 ]
