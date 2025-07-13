@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Fluminense",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/1200px-FFC_crest.svg.png",
-    "champ": "Coupe du monde des Clubs",
+    "name1": "Olimpia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/9/9d/CD_Olimpia_Tegucigalpa.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "name2": "Motagua",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/F.C._Motagua.png/250px-F.C._Motagua.png",
+    "pro": "V2 Et TP(2.5) - OUI"
   },
   {
-    "name1": "KuPs",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/1200px-KuPS_logo.svg.png",
-    "champ": "UEFA",
+    "name1": "CS Tunari",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CS_Tunari_logo.png/250px-CS_Tunari_logo.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Milsami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Milsami.png/250px-Milsami.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Iberia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Saburtalo_Tbilissi_Logo_2021.png/250px-Saburtalo_Tbilissi_Logo_2021.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Malmo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malmo_FF_logo.svg/1200px-Malmo_FF_logo.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Noah",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWH8suzTSG0fpcowKvoZlAQ2sqBvr2utfnVw&s",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Buducnost",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6f/Fk_Buducnost_Logo.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Levadia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/FC_Levadia_Tallinnin.png/250px-FC_Levadia_Tallinnin.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "RFS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_FK_RFS_2021.svg/1200px-Logo_FK_RFS_2021.svg.png",
-    "pro": "Total 2: (+0.5)"
-  },
-  {
-    "name1": "Olimpija",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/1200px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Kairat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Drita",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/1200px-FC_Drita.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Differdange 03",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Logo_fcd_grand.svg/1200px-Logo_fcd_grand.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "TNS",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/The_New_Saints_FC_logo.svg/1200px-The_New_Saints_FC_logo.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Shkëndija",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnndJebcPLRXTxB8ugrb1hTEIrEK9CQ_74gA&s",
-    "pro": "2X"
-  },
-  {
-    "name1": "Vikingur",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/V%C3%ADkingur_G%C3%B8ta_logo.svg/1200px-V%C3%ADkingur_G%C3%B8ta_logo.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Lincoln RI",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Lincoln_Red_Imps_F.C._Logo.png/250px-Lincoln_Red_Imps_F.C._Logo.png",
-    "pro": "2X Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Egnatia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Egnatia_Club_Logo.svg/1200px-Egnatia_Club_Logo.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Breidablik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/1611px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Virtus",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCoNExhfJd8TMXA42R8q-wqKD6aeS9ZqSi7A&s",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Zrinjski",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/H%C5%A0K_Zrinjski_Mostar.svg/1200px-H%C5%A0K_Zrinjski_Mostar.svg.png",
+    "name2": "Dinamo Bucuresti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/FC_Dinamo_Bucuresti_logo.svg/1200px-FC_Dinamo_Bucuresti_logo.svg.png",
     "pro": "Total: (+1.5)"
   },
   {
-    "name1": "St Joseph's",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fd/St_Josephs_Gibraltar.png",
-    "champ": "UEFA Conférence",
+    "name1": "Concordia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e7/Clubul_Sportiv_Concordia_Chiajna.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Cliftonville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Cliftonville_FC_%28logo%29.svg/1200px-Cliftonville_FC_%28logo%29.svg.png",
+    "name2": "Chindia Targoviste",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/82/Chindia_T%C3%A2rgovi%C5%9Fte.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Floriana",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Floriana_FC.svg/langfr-250px-Floriana_FC.svg.png",
-    "champ": "UEFA Conférence",
+    "name1": "BVSC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5f/BVSC-Budapest.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Haverfordwest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Haverfordwest_County_%28logo%29.svg/2048px-Haverfordwest_County_%28logo%29.svg.png",
+    "name2": "Csakvar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e5/Aqvital_FC_Cs%C3%A1kv%C3%A1r_logo.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Hlucin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hlu%C4%8D%C3%ADn_znak.png",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Bospor Bohumin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/FK_Bohum%C3%ADn.png/140px-FK_Bohum%C3%ADn.png",
     "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Minnesota",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQS98EBZIsyEzXiBK7grkIhdDPtSeMz0uFg&s",
+    "name1": "Gorica",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Hnk_gorica.svg/langfr-250px-Hnk_gorica.svg.png",
     "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Kiel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
-    "pro": "2X"
-  },
-    {
-    "name1": "Choloma",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Escudo_de_Choloma.svg/512px-Escudo_de_Choloma.svg.png",
-    "champ": "Matchs amicaux des clubs",
-    "date": "WIN",
-    "name2": "Real Espana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Real_Espa%C3%B1a.svg/1200px-Real_Espa%C3%B1a.svg.png",
+    "name2": "Siroki Brijeg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_NKSB_final.png/1200px-Logo_NKSB_final.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
-   {
-    "name1": "Enisey",
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/0/0b/Yenisey_2024-25.png",
+  {
+    "name1": "Jagiellonia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/Logo_Jagiellonia_Bia%C5%82ystok_2021.svg/1200px-Logo_Jagiellonia_Bia%C5%82ystok_2021.svg.png",
     "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Rotor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d1/Rotor_Volgograd.png",
+    "name2": "Teplice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FK_Teplice_logo.svg/1200px-FK_Teplice_logo.svg.png",
+    "pro": "V2"
+  },
+  {
+    "name1": "Komarno",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6e/KFC_Kom%C3%A1rom_logo.png",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Honvéd",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Kispest_honved_fc_logo.png/250px-Kispest_honved_fc_logo.png",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Kudrivka",
+    "photo1": "https://upload.wikimedia.org/wikipedia/lt/e/ef/FK_Kudrivka_emblema.png",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Veres Rivne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Logo_NK_Veres_Rivne.svg/1200px-Logo_NK_Veres_Rivne.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Goczalkowice",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95jLqltFPn35HP6cyAJtbeiSUEuNQ1xTD2Q&s",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Rekord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_BTS_Rekord_Bielsko-Bia%C5%82a.png",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "name1": "Pari NN",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhK_H44Gpr0P60JnQxh260fLJ5rQAc4bhgQ&s",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Kamaz",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKfJiiVF5P6S3SCqlmlHUKQVUXQ7szz2kig&s",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "SK Slavia Praha",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SK_Slavia_Praha_full_logo.svg/1200px-SK_Slavia_Praha_full_logo.svg.png",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Banik Sous",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTXRs-mBnIuSHwJslBf1fi6yYzj7S6kLaMA&s",
+    "pro": "V1"
+  },
+  {
+    "name1": "Kolin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/FK_Kol%C3%ADn_logo.jpg/250px-FK_Kol%C3%ADn_logo.jpg",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Bohemians Praha",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Bohemians_Praha_1905.svg/1200px-Bohemians_Praha_1905.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Stropkov",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Twann-coat_of_arms.svg/809px-Twann-coat_of_arms.svg.png",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Stara Lubovna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Coat_of_Arms_of_Star%C3%A1_%C4%BDubov%C5%88a.svg/800px-Coat_of_Arms_of_Star%C3%A1_%C4%BDubov%C5%88a.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "name1": "Viktoria M.L",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_FC_Viktoria_Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B.jpg",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Kraluv Dvur",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112016/fk_kraluv_dvur.gif?itok=4vQ5rJ7p",
+    "pro": "V2"
+  },
+   {
+    "name1": "Ajaccio",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Logo_AC_Ajaccio_2015.svg/1544px-Logo_AC_Ajaccio_2015.svg.png",
+    "champ": "Matchs amicaux des clubs",
+    "date": "WIN",
+    "name2": "Furiani Agliani",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/Logo_AS_Furiani_Agliani_-_2020.svg/1200px-Logo_AS_Furiani_Agliani_-_2020.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
      {
-    "name1": "UCCSA",
-    "photo1": "https://secure.gravatar.com/blavatar/d112ec0c9e18b8b6c209cad65fbdd52fb4f71acb6d7ae94932aacb065b744839?s=200&ts=1751079967",
+    "name1": "Ad. Praha",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvbl1UYSj2MVJctQbomw3EmCBaSHRm4R4uuLpSGFqK5VIoQmO-fKSZyXVI6-lILuzGM&usqp=CAU",
     "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Chaika",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/87/SC_Chaika_Petropavlivska_Borshchahivka_logo_%282020%29.png",
+    "name2": "FK Teplice",
+    "photo2": "https://e7.pngegg.com/pngimages/791/879/png-clipart-sfc-opava-sk-sigma-olomouc-fk-teplice-football-czech-first-league-football-logo-sports-thumbnail.png",
     "pro": "1X"
   },
    {
-    "name1": "Hvidovre",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Hvidovre_IF.png/250px-Hvidovre_IF.png",
+    "name1": "MTK Budapest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9c/MTK_%28logo%29.svg/1200px-MTK_%28logo%29.svg.png",
     "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "HB Koge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HB_Koge_logo.svg/1200px-HB_Koge_logo.svg.png",
+    "name2": "Kecskemet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Kecskem%C3%A9ti_TE.svg/1200px-Kecskem%C3%A9ti_TE.svg.png",
     "pro": "Total: (+2.5)"
   },
    {
-    "name1": "Lille",
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Logo_LOSC_Lille_2018.svg/1200px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Hanacka Slavia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/63/SK_Hanacka_Slavia_Kromeriz_logo.png",
     "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Jong Gent",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
+    "name2": "Unicov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/92/SK_Unicov_logo.png",
     "pro": "V1 Et TP(1.5) - OUI"
   },
      {
-    "name1": "Probiy",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfr--qx47XUOVgufsMPgpJx5hWUnM6CbIJtGfcpFu50pWAfWJxitj3goi2bhhDVxSHQ9s&usqp=CAU",
+    "name1": "SK Kladno",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/SK_Kladno.svg/1200px-SK_Kladno.svg.png",
     "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Nyva",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Nyva_Ternopil.png/250px-Nyva_Ternopil.png",
+    "name2": "Jiskra",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/90/TJ_Jiskra_Doma%C5%BElice_logo.png",
     "pro": "Deux équipes vont marquer: OUI"
   }
 ]
