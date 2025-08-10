@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Kairat",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
-    "champ": "UEFA",
+    "name1": "Charlton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1200px-Charlton_Athletic.svg.png",
+    "champ": "Angleterre. Championship",
     "date": "WIN",
-    "name2": "KuPS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Dynamo Kyiv",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Hamrun S.",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hamrun_badge_hi_deffb1.png/500px-Hamrun_badge_hi_deffb1.png",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Drita",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/1200px-FC_Drita.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Copenhague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "pro": "V2"
-  },
-  {
-    "name1": "Crvena Zvezda",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Red_Star_Belgrade_crest.svg/1200px-Red_Star_Belgrade_crest.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Lincoln RI",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/10/Lincoln_Red_Imps_F.C._Logo.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Zrinjski",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/H%C5%A0K_Zrinjski_Mostar.svg/1200px-H%C5%A0K_Zrinjski_Mostar.svg.png",
-    "champ": "UEFA",
-    "date": "WIN",
-    "name2": "Slovan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Iberia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png",
-    "champ": "UEFA Conférence",
-    "date": "WIN",
-    "name2": "Levadia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f8/FC_Levadia_Tallinnin.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Differdange 03",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Logo_fcd_grand.svg/1200px-Logo_fcd_grand.svg.png",
-    "champ": "UEFA Conférence",
-    "date": "WIN",
-    "name2": "TNS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/The_New_Saints_FC_logo.svg/1200px-The_New_Saints_FC_logo.svg.png",
+    "name2": "Watford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1200px-Watford.svg.png",
     "pro": "V1"
   },
   {
-    "name1": "Inter Club",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png",
-    "champ": "UEFA Conférence",
+    "name1": "Coventry",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/1200px-Coventry_City_FC_crest.svg.png",
+    "champ": "Angleterre. Championship",
     "date": "WIN",
-    "name2": "Olimpija",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/1200px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Barnet",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeVYXPj57u50SJgEK65fHVovu3SEBrBr0og&s",
-    "champ": "Angleterre. EFL",
-    "date": "WIN",
-    "name2": "Newport",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Newport_County_AFC_crest.svg/1200px-Newport_County_AFC_crest.svg.png",
+    "name2": "Hull",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/1200px-Hull_City_A.F.C._logo.svg.png",
     "pro": "2X"
   },
   {
-    "name1": "Mizoram Police",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Mizoram_Police_Logo.png/250px-Mizoram_Police_Logo.png",
-    "champ": "Matchs amicaux des clubs",
+    "name1": "Southampton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1200px-Logo_Southampton_FC_2011.svg.png",
+    "champ": "Angleterre. Championship",
     "date": "WIN",
-    "name2": "SYS FC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QSRuiRPTt5EcTJtH0caPRVI67eIIohJ7QQ&s",
+    "name2": "Wrexham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Middlesbrough",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1200px-Middlesbrough_FC_crest.svg.png",
+    "champ": "Angleterre. Championship",
+    "date": "WIN",
+    "name2": "Swansea",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CTtZ_iEg9-sl5M8H3_ekNPOd8dGPwxWFdQ&s",
     "pro": "V1"
   },
   {
-    "name1": "Eastern SC",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Eastern_Sports_Club.svg/800px-Eastern_Sports_Club.svg.png",
-    "champ": "Matchs amicaux des clubs",
+    "name1": "Norwich",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU45R6t05ZYGLjNF6WAQxsOnOp1nMl9vEOrQ&s",
+    "champ": "Angleterre. Championship",
     "date": "WIN",
-    "name2": "Taichung Futuro FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a0/Taichung_FUTURO.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "RMC Makassar",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PSM_Makassar_%28logo%29.svg/1200px-PSM_Makassar_%28logo%29.svg.png",
-    "champ": "Matchs amicaux des clubs",
-    "date": "WIN",
-    "name2": "Dharma Lautan",
-    "photo2": "https://dlu.co.id/wp-content/uploads/2025/04/logodlu-1-1024x789.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Red Star",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_Red_Star_FC_2014.svg/1200px-Logo_Red_Star_FC_2014.svg.png",
-    "champ": "Matchs amicaux des clubs",
-    "date": "WIN",
-    "name2": "QRM",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_US_Quevilly_Rouen_2018.svg/1653px-Logo_US_Quevilly_Rouen_2018.svg.png",
+    "name2": "Millwall",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1200px-Millwall_FC_crest.svg.png",
     "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Kanan FC",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/98/FK_Karvan_Yevlax.png",
-    "champ": "Matchs amicaux des clubs",
+    "name1": "Oxford United",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1200px-Oxford_United_FC_logo.svg.png",
+    "champ": "Angleterre. Championship",
     "date": "WIN",
-    "name2": "Ramhlun North FC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQZecnWkZxR0i2dzeiHZP19nwhR0b2c1dQfw&s",
+    "name2": "Portsmouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Logo_Portsmouth_FC.svg/1200px-Logo_Portsmouth_FC.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "QPR",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "champ": "Angleterre. Championship",
+    "date": "WIN",
+    "name2": "Preston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
     "pro": "1X Et TP(1.5) - OUI"
   },
-    {
-    "name1": "St.George Willawong",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bfnzlwAy555PiDFptWlS8mB09jKOGB4_Pw&s",
-    "champ": "Matchs amicaux des clubs",
+  {
+    "name1": "Stoke",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/Logo_Stoke_City_FC_2025.svg/1200px-Logo_Stoke_City_FC_2025.svg.png",
+    "champ": "Angleterre. Championship",
     "date": "WIN",
-    "name2": "Brisbane Roar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwtzTfkAWT3yyUEp7Bv631tu8suihl4gBX8w&s",
+    "name2": "Derby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "West Brom",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
+    "champ": "Angleterre. Championship",
+    "date": "WIN",
+    "name2": "Blackburn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
+    "pro": "1X"
+  },
+  {
+    "name1": "Sheffield United",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png",
+    "champ": "Angleterre. Championship",
+    "date": "WIN",
+    "name2": "Bristol City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/1200px-Bristol_City_crest.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "NEC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LogoN.E.C.png/800px-LogoN.E.C.png",
+    "champ": "Pays-Bas. Eredivisie",
+    "date": "WIN",
+    "name2": "Excelsior",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/1200px-Excelsior_Rotterdam_logo_2021.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Feyenoord",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "champ": "Pays-Bas. Eredivisie",
+    "date": "WIN",
+    "name2": "NAC Breda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_NAC_Breda.svg/1850px-Logo_NAC_Breda.svg.png",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Heerenveen",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_sc_Heerenveen_2024.svg/1200px-Logo_sc_Heerenveen_2024.svg.png",
+    "champ": "Pays-Bas. Eredivisie",
+    "date": "WIN",
+    "name2": "Volendam",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZzpFkR9A2bEHm3iVy9UQVtF9q8lPZ0CPYA&s",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "name1": "PSV",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "champ": "Pays-Bas. Eredivisie",
+    "date": "WIN",
+    "name2": "Sparta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+    {
+    "name1": "Braunschweig",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Eintracht_Braunschweig_logo.svg/1200px-Eintracht_Braunschweig_logo.svg.png",
+    "champ": "Allemagne. 2",
+    "date": "WIN",
+    "name2": "Fürth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/SpVgg_Greuther_F%C3%BCrth_2017.svg/1200px-SpVgg_Greuther_F%C3%BCrth_2017.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+   {
+    "name1": "Fortuna",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1200px-Logo_Fortuna_Sittard_2024.svg.png",
+    "champ": "Allemagne. 2",
+    "date": "WIN",
+    "name2": "Hannover",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1200px-Hannover_96_Logo.svg.png",
+    "pro": "V2"
+  },
+     {
+    "name1": "Dresden",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Dynamo_Dresden_crest.svg/1200px-Dynamo_Dresden_crest.svg.png",
+    "champ": "Allemagne. 2",
+    "date": "WIN",
+    "name2": "Magdeburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/964px-1._FC_Magdeburg.svg.png",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+   {
+    "name1": "Kaiserslautern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/2048px-Logo_1_FC_Kaiserslautern.svg.png",
+    "champ": "Allemagne. 2",
+    "date": "WIN",
+    "name2": "Schalke",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/langfr-250px-FC_Schalke_04_Logo.svg.png",
     "pro": "1X"
   },
    {
-    "name1": "Port FC",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Port_FC_logo.svg/1200px-Port_FC_logo.svg.png",
-    "champ": "Matchs amicaux des clubs",
+    "name1": "Guingamp",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/En_Avant_Guingamp_logo.svg/1200px-En_Avant_Guingamp_logo.svg.png",
+    "champ": "France. Ligue 2",
     "date": "WIN",
-    "name2": "Chanthaburi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/de/Logo_of_Chanthaburi_F.C.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "Le Mans",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Le_Mans_FC_logo.svg/1200px-Le_Mans_FC_logo.svg.png",
+    "pro": "1X Et TP(2.5) - OUI"
   },
      {
-    "name1": "Jong Sparta",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Sparta_Rotterdam_logo.svg/1200px-Sparta_Rotterdam_logo.svg.png",
-    "champ": "Matchs amicaux des clubs",
+    "name1": "Montpellier",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/1200px-Montpellier_HSC_logo.svg.png",
+    "champ": "France. Ligue 2",
     "date": "WIN",
-    "name2": "Telstar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_SC_Telstar.svg/1200px-Logo_SC_Telstar.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-   {
-    "name1": "Mainz 05",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "champ": "Matchs amicaux des clubs",
-    "date": "WIN",
-    "name2": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Red Star",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_RedStarFC.png",
     "pro": "Deux équipes vont marquer: OUI"
-  },
-   {
-    "name1": "Feyenoord U21",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "champ": "Matchs amicaux des clubs",
-    "date": "WIN",
-    "name2": "USG U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/1200px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-     {
-    "name1": "Al-Shabab",
-    "photo1": "https://w7.pngwing.com/pngs/208/1018/png-transparent-al-shabab-sc-oman-professional-league-al-shabab-fc-al-ittihad-club-al-nassr-fc-oman-professional-league-emblem-label-logo.png",
-    "champ": "Matchs amicaux des clubs",
-    "date": "WIN",
-    "name2": "Dhofar",
-    "photo2": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png/v4/Competitors/12190",
-    "pro": "V2"
   }
 ]
