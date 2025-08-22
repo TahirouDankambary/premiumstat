@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Charlton",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1200px-Charlton_Athletic.svg.png",
-    "champ": "Angleterre. Championship",
+    "name1": "Midtjylland",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/2048px-Logo_FC_Midtjylland_2023.svg.png",
+    "champ": "Europa League",
     "date": "WIN",
-    "name2": "Watford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1200px-Watford.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Coventry",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/1200px-Coventry_City_FC_crest.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Hull",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/1200px-Hull_City_A.F.C._logo.svg.png",
-    "pro": "2X"
-  },
-  {
-    "name1": "Southampton",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1200px-Logo_Southampton_FC_2011.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Wrexham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Middlesbrough",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1200px-Middlesbrough_FC_crest.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Swansea",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CTtZ_iEg9-sl5M8H3_ekNPOd8dGPwxWFdQ&s",
-    "pro": "V1"
-  },
-  {
-    "name1": "Norwich",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU45R6t05ZYGLjNF6WAQxsOnOp1nMl9vEOrQ&s",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Millwall",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1200px-Millwall_FC_crest.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Oxford United",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1200px-Oxford_United_FC_logo.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Portsmouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Logo_Portsmouth_FC.svg/1200px-Logo_Portsmouth_FC.svg.png",
-    "pro": "2X"
-  },
-  {
-    "name1": "QPR",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Preston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Stoke",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/Logo_Stoke_City_FC_2025.svg/1200px-Logo_Stoke_City_FC_2025.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Derby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
+    "name2": "KuPS",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "name1": "West Brom",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
-    "champ": "Angleterre. Championship",
+    "name1": "Malmo",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "champ": "Europa League",
     "date": "WIN",
-    "name2": "Blackburn",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Sheffield United",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png",
-    "champ": "Angleterre. Championship",
-    "date": "WIN",
-    "name2": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/1200px-Bristol_City_crest.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "NEC",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LogoN.E.C.png/800px-LogoN.E.C.png",
-    "champ": "Pays-Bas. Eredivisie",
-    "date": "WIN",
-    "name2": "Excelsior",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/1200px-Excelsior_Rotterdam_logo_2021.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Feyenoord",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "champ": "Pays-Bas. Eredivisie",
-    "date": "WIN",
-    "name2": "NAC Breda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_NAC_Breda.svg/1850px-Logo_NAC_Breda.svg.png",
+    "name2": "Sigma Olomouc",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/800px-Sk_sigma.svg.png",
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "name1": "Heerenveen",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_sc_Heerenveen_2024.svg/1200px-Logo_sc_Heerenveen_2024.svg.png",
-    "champ": "Pays-Bas. Eredivisie",
+    "name1": "Brann",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
+    "champ": "Europa League",
     "date": "WIN",
-    "name2": "Volendam",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZzpFkR9A2bEHm3iVy9UQVtF9q8lPZ0CPYA&s",
+    "name2": "AEK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_AEK_Ath%C3%A8nes_2014.svg/1200px-Logo_AEK_Ath%C3%A8nes_2014.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Zrinjski",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/H%C5%A0K_Zrinjski_Mostar.svg/1200px-H%C5%A0K_Zrinjski_Mostar.svg.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Utrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
     "pro": "Total: (+1.5)"
   },
   {
-    "name1": "PSV",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-    "champ": "Pays-Bas. Eredivisie",
+    "name1": "Shkendija",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/KF_Shk%C3%ABndija_%28logo%29.svg/langfr-250px-KF_Shk%C3%ABndija_%28logo%29.svg.png",
+    "champ": "Europa League",
     "date": "WIN",
-    "name2": "Sparta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
+    "name2": "Ludogorets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Panathinaikos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Samsunspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "M.Tel-Aviv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Maccabi_Tel_Aviv_FC.png/1200px-Maccabi_Tel_Aviv_FC.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Dynamo Kyiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Slovan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Young Boys",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Lech",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/KKS_Lech_Pozna%C5%84_%28logo%29.svg/1200px-KKS_Lech_Pozna%C5%84_%28logo%29.svg.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Genk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/1200px-Logo_KRC_Genk_2021.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Aberdeen",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDgF_adOss_xJC_xx2zNqszj1JvMkjV8I4A&s",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "FCSB",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1613px-Fcsb-logo.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Rijeka",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Logo_HNK_Rijeka_2021.svg/1200px-Logo_HNK_Rijeka_2021.svg.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "PAOK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/800px-PAOK_FC_logo.svg.png",
+    "pro": "12"
+  },
+  {
+    "name1": "Lincoln RI",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Lincoln_Red_Imps_F.C._Logo.png/250px-Lincoln_Red_Imps_F.C._Logo.png",
+    "champ": "Europa League",
+    "date": "WIN",
+    "name2": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/SC_Braga_%28logo%29.svg/1200px-SC_Braga_%28logo%29.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Rosenborg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
+    "champ": "Conference League",
+    "date": "WIN",
+    "name2": "Mainz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Hacken",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/1200px-Logo_BK_H%C3%A4cken_2021.svg.png",
+    "champ": "Conference League",
+    "date": "WIN",
+    "name2": "CFR Cluj",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
     "pro": "V1 Et TP(2.5) - OUI"
   },
     {
-    "name1": "Braunschweig",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Eintracht_Braunschweig_logo.svg/1200px-Eintracht_Braunschweig_logo.svg.png",
-    "champ": "Allemagne. 2",
+    "name1": "Gyor",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_ETO_FC_Gy%C5%91r_2025.svg/1200px-Logo_ETO_FC_Gy%C5%91r_2025.svg.png",
+    "champ": "Conference League",
     "date": "WIN",
-    "name2": "Fürth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/SpVgg_Greuther_F%C3%BCrth_2017.svg/1200px-SpVgg_Greuther_F%C3%BCrth_2017.svg.png",
+    "name2": "Rapid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/1200px-SK_Rapid_Wien_Logo.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
    {
-    "name1": "Fortuna",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1200px-Logo_Fortuna_Sittard_2024.svg.png",
-    "champ": "Allemagne. 2",
+    "name1": "WAC",
+    "photo1": "https://cdn.soccerwiki.org/images/logos/clubs/1835.png",
+    "champ": "Conference League",
     "date": "WIN",
-    "name2": "Hannover",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1200px-Hannover_96_Logo.svg.png",
-    "pro": "V2"
+    "name2": "Omonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/AC_Omonia_logo.svg/1200px-AC_Omonia_logo.svg.png",
+    "pro": "V1"
   },
      {
-    "name1": "Dresden",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Dynamo_Dresden_crest.svg/1200px-Dynamo_Dresden_crest.svg.png",
-    "champ": "Allemagne. 2",
+    "name1": "Hamrun S",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hamrun_badge_hi_deffb1.png",
+    "champ": "Conference League",
     "date": "WIN",
-    "name2": "Magdeburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/964px-1._FC_Magdeburg.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "name2": "RFS",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/1200px-FK_RFS_logo.svg.png",
+    "pro": "12"
   },
    {
-    "name1": "Kaiserslautern",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/2048px-Logo_1_FC_Kaiserslautern.svg.png",
-    "champ": "Allemagne. 2",
+    "name1": "Basaksehir",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/1200px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
+    "champ": "Conference League",
     "date": "WIN",
-    "name2": "Schalke",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/langfr-250px-FC_Schalke_04_Logo.svg.png",
-    "pro": "1X"
+    "name2": "U.Craiova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/1200px-CS_Universitatea_Craiova_logo.svg.png",
+    "pro": "2X Et TP(2.5) - OUI"
   },
    {
-    "name1": "Guingamp",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/En_Avant_Guingamp_logo.svg/1200px-En_Avant_Guingamp_logo.svg.png",
-    "champ": "France. Ligue 2",
+    "name1": "Sparta Praha",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
+    "champ": "Conference League",
     "date": "WIN",
-    "name2": "Le Mans",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Le_Mans_FC_logo.svg/1200px-Le_Mans_FC_logo.svg.png",
-    "pro": "1X Et TP(2.5) - OUI"
+    "name2": "Riga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Riga_FC_%28logo%29.svg/1200px-Riga_FC_%28logo%29.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
   },
      {
-    "name1": "Montpellier",
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/1200px-Montpellier_HSC_logo.svg.png",
-    "champ": "France. Ligue 2",
+    "name1": "Breidablik",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/640px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
+    "champ": "Conference League",
     "date": "WIN",
-    "name2": "Red Star",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_RedStarFC.png",
+    "name2": "Virtus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Virtus_AC_San_Marino_logo.svg/1200px-Virtus_AC_San_Marino_logo.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   }
 ]
