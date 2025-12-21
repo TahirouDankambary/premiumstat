@@ -1,182 +1,182 @@
 [
   {
-    "name1": "Chelsea",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
+    "name1": "Newcastle",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
     "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
+    "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Liverpool",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
+    "name1": "Bournemouth",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
     "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "name2": "Burnley",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rYJKDnNu13Jynkz3DgfH4JETxBqkACh-6Q&s",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Brighton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Sunderland",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLKVVmVpm_9umxifHHxCWfz7TF0OOADtMMw&s",
     "pro": "1X"
   },
   {
-    "name1": "Burnley",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rYJKDnNu13Jynkz3DgfH4JETxBqkACh-6Q&s",
+    "name1": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
     "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/901px-Logo_Fulham.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "West Ham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
+    "pro": "1X ET TP(2.5) - OUI"
   },
   {
-    "name1": "Arsenal",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
+    "name1": "Wolves",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
     "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Wolves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
-    "pro": "1X ET TP(1.5) - OUI"
+    "name2": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Torino",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/langfr-250px-Logo_Torino_FC_2024.svg.png",
+    "name1": "Tottenham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Liverpool",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "Everton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/1177px-Logo_Everton_FC_2023.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
+    "pro": "V2"
+  },
+  {
+    "name1": "Leeds",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VgeA91yPkqNkevaOtu9fup6k0_IvYJsvlA&s",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Real Oviedo",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Celta",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RBS0CjOOGq67pHDwlF4EuaaJBlE6RU6tCA&s",
+    "pro": "2X"
+  },
+  {
+    "name1": "Levante",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Real Sociedad",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Osasuna",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3BjXvCCF52i7_l4Fzo-qBZI06iBJt2w_MQ&s",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Alavés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "pro": "12"
+  },
+  {
+    "name1": "Real Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Sevilla",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1688px-Logo_S%C3%A9ville_FC.svg.png",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Lazio",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
     "champ": "Italie. Série A",
     "date": "WIN",
     "name2": "Cremonese",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1200px-Logo_US_Cremonese_2018.svg.png",
-    "pro": "12"
-  },
-  {
-    "name1": "Parma",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNfaZlqIdnywubRN-S6Fr1gKUx2QcQzt7qA&s",
-    "champ": "Italie. Série A",
-    "date": "WIN",
-    "name2": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "pro": "2X"
-  },
-  {
-    "name1": "Atalanta",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/960px-Logo_Atalanta_Bergame_2024.svg.png",
-    "champ": "Italie. Série A",
-    "date": "WIN",
-    "name2": "Cagliari",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/992px-Cagliari_Calcio_1920_logo.svg.png",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Atl.Madrid",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/960px-Logo_ATM_2024.svg.png",
-    "champ": "Espagne. LaLiga",
-    "date": "WIN",
-    "name2": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Majorque",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
-    "champ": "Espagne. LaLiga",
-    "date": "WIN",
-    "name2": "Elche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Elche_CF_2021.svg/977px-Logo_Elche_CF_2021.svg.png",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "name1": "Barcelone",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "champ": "Espagne. LaLiga",
-    "date": "WIN",
-    "name2": "Osasuna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3BjXvCCF52i7_l4Fzo-qBZI06iBJt2w_MQ&s",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Getafe",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnV0VKn4oS664O7jce5sMtnkMrOP2ldO8e9A&s",
-    "champ": "Espagne. LaLiga",
-    "date": "WIN",
-    "name2": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
-    "pro": "12"
-  },
-  {
-    "name1": "M'gladbach",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/1283px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Wolfsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/960px-Logo-VfL-Wolfsburg.svg.png",
-    "pro": "12"
-  },
-  {
-    "name1": "Frankfurt",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "champ": "Allemagne. Bundesliga",
-    "date": "WIN",
-    "name2": "Augsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/960px-FC_Augsburg_-_Logo.svg.png",
     "pro": "1X"
   },
   {
-    "name1": "St.Pauli",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1200px-FC_St._Pauli_%28logo%29.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Juventus",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "Heidenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/93/1._FC_Heidenheim_1846.png",
+    "name2": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/1595px-AS_Roma_Logo_2017.svg.png",
     "pro": "Total: (+1.5)"
   },
     {
-    "name1": "Hoffenheim",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/1716px-Logo_TSG_Hoffenheim.svg.png",
+    "name1": "Koln",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1054px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
     "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Hambourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1280px-Hamburger_SV_logo.svg.png",
+    "name2": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/1200px-1._FC_Union_Berlin_Logo.svg.png",
     "pro": "12"
   },
    {
-    "name1": "Leverkusen",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Augsburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/960px-FC_Augsburg_-_Logo.svg.png",
     "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "Köln",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/250px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+    "name2": "Bremen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1362px-SV-Werder-Bremen-Logo.svg.png",
+    "pro": "2X"
+  },
+     {
+    "name1": "HSV",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1200px-Hamburger_SV_logo.svg.png",
+    "champ": "Allemagne. Bundesliga",
+    "date": "WIN",
+    "name2": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+   {
+    "name1": "Stuttgart",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "champ": "Allemagne. Bundesliga",
+    "date": "WIN",
+    "name2": "Hoffenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/1716px-Logo_TSG_Hoffenheim.svg.png",
     "pro": "1X"
   },
-     {
-    "name1": "Rennes",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHIU1h-o3zuR0pQxrxiihQ5bniO_pxWUxJg&s",
-    "champ": "France. Ligue 1",
-    "date": "WIN",
-    "name2": "Brest",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IWIYXgSpdXNRK_ZEyy0KYf8jNci_lnrk3Q&s",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
    {
-    "name1": "Metz",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/716px-FC_Metz_2021_Logo.svg.png",
-    "champ": "France. Ligue 1",
+    "name1": "Wolfsburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/500px-Logo-VfL-Wolfsburg.svg.png",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-   {
-    "name1": "Paris",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Paris_FC_2011.svg/1726px-Logo_Paris_FC_2011.svg.png",
-    "champ": "France. Ligue 1",
-    "date": "WIN",
-    "name2": "Toulouse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/langfr-250px-Toulouse_FC_logo_2021.svg.png",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "name2": "Freiburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1457px-SC_Freiburg_%28logo%29.svg.png",
+    "pro": "Total: (+2.5)"
   },
      {
-    "name1": "Telstar",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_SC_Telstar.svg/986px-Logo_SC_Telstar.svg.png",
-    "champ": "Pays-Bas. Eredivisie",
+    "name1": "Leipzig",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/2560px-Logo_RB_Leipzig_2020.svg.png",
+    "champ": "Allemagne. Bundesliga",
     "date": "WIN",
-    "name2": "NEC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xS4if-3lJxamlpYxghdv8hboQzuX8RtZvQ&s",
+    "name2": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   }
 ]
