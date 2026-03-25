@@ -1,39 +1,39 @@
 [
   {
-    "name1": "Brighton",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/langfr-250px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "champ": "Angleterre. Premier League",
+    "name1": "Wolfsburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/langfr-250px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "champ": "UEFA. Femmes",
     "date": "WIN",
-    "name2": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/500px-Logo_Everton_FC_2023.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "Lyonnes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKNkiuoRrvbW3dSq4YftN6F06mnsPSoVosQ&s",
+    "pro": "Score exact: 1:0"
   },
   {
-    "name1": "Leeds United",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2K5gcfRC6sTUYuWIXWvEPc92tyB-TNANXg&s",
-    "champ": "Angleterre. Premier League",
+    "name1": "Arsenal",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuoSAZgIQqaPVxscvk-bvdF7Dg9utmq1aCw&s",
+    "champ": "UEFA. Femmes",
     "date": "WIN",
-    "name2": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
-    "pro": "V2 Et TP(2.5) - OUI"
+    "name2": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
+    "pro": "Score exact: 3:1"
   },
   {
-    "name1": "Wolves",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1280px-Wolverhampton_Wanderers.svg.png",
-    "champ": "Angleterre. Premier League",
+    "name1": "Huracan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/960px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png",
+    "champ": "Liga Profesional de Futbol",
     "date": "WIN",
-    "name2": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/960px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "Barracas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barracas_central_logo.svg/langfr-250px-Barracas_central_logo.svg.png",
+    "pro": "Score exact: 0:0"
   },
   {
-    "name1": "Chelsea",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
-    "champ": "Angleterre. Premier League",
+    "name1": "Emmen",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/960px-FC_Emmen_logo.svg.png",
+    "champ": "Pays-Bas. Eerste Divisie",
     "date": "WIN",
-    "name2": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/500px-West_Ham_United_FC_logo.svg.png",
-    "pro": "Total: (+2.5)"
+    "name2": "Cambuur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_SC_Cambuur.svg/langfr-250px-Logo_SC_Cambuur.svg.png",
+    "pro": "Score exact: 2:4"
   },
   {
     "name1": "Liverpool",
