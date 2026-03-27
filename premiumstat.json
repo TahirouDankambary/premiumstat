@@ -36,31 +36,31 @@
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Liverpool",
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
-    "champ": "Angleterre. Premier League",
+    "name1": "Ukraine",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langfr-250px-Flag_of_Ukraine.svg.png",
+    "champ": "Qualif Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
-    "pro": "1X"
+    "name2": "Suède",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/langfr-250px-Flag_of_Sweden.svg.png",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Real Oviedo",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
-    "champ": "Espagne. LaLiga",
+    "name1": "Gibralar",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/3840px-Flag_of_Gibraltar.svg.png",
+    "champ": "UEFA Nations League",
     "date": "WIN",
-    "name2": "Girone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/langfr-250px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Lettonie",
+    "photo2": "https://i.pinimg.com/474x/06/a3/0c/06a30ccecbdc19abbf9ce95d4c5fb8f2.jpg",
     "pro": "12"
   },
   {
-    "name1": "Osasuna",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/960px-Logo_CA_Osasuna_2024.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Malte",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png",
+    "champ": "UEFA Nations League",
     "date": "WIN",
-    "name2": "Villarreal",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
-    "pro": "Total: (+2.5)"
+    "name2": "Luxembourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1280px-Flag_of_Luxembourg.svg.png",
+    "pro": "2X"
   },
   {
     "name1": "Levante",
