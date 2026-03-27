@@ -1,39 +1,39 @@
 [
   {
-    "name1": "Wolfsburg",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/langfr-250px-Logo_VfL_Wolfsburg_2024.svg.png",
-    "champ": "UEFA. Femmes",
+    "name1": "Turquie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
+    "champ": "Qualif Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Lyonnes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKNkiuoRrvbW3dSq4YftN6F06mnsPSoVosQ&s",
-    "pro": "Score exact: 1:0"
+    "name2": "Roumanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/3840px-Flag_of_Romania.svg.png",
+    "pro": "V1"
   },
   {
-    "name1": "Arsenal",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuoSAZgIQqaPVxscvk-bvdF7Dg9utmq1aCw&s",
-    "champ": "UEFA. Femmes",
+    "name1": "Danemark",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png",
+    "champ": "Qualif Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
-    "pro": "Score exact: 3:1"
+    "name2": "Macédoine du Nord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1280px-Flag_of_North_Macedonia.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Huracan",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/960px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png",
-    "champ": "Liga Profesional de Futbol",
+    "name1": "Italie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+    "champ": "Qualif Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Barracas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barracas_central_logo.svg/langfr-250px-Barracas_central_logo.svg.png",
-    "pro": "Score exact: 0:0"
+    "name2": "Irlande du Nord",
+    "photo2": "https://preview.redd.it/which-flag-is-the-actual-flag-of-northern-ireland-v0-6s9rb2e0ny8c1.jpeg?width=1079&format=pjpg&auto=webp&s=3e658efb41b9a3a490dad187c22d7823157e92ea",
+    "pro": "Total: (+1.5)"
   },
   {
-    "name1": "Emmen",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/960px-FC_Emmen_logo.svg.png",
-    "champ": "Pays-Bas. Eerste Divisie",
+    "name1": "Pologne",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langfr-250px-Flag_of_Poland.svg.png",
+    "champ": "Qualif Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Cambuur",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_SC_Cambuur.svg/langfr-250px-Logo_SC_Cambuur.svg.png",
-    "pro": "Score exact: 2:4"
+    "name2": "Albanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
     "name1": "Liverpool",
