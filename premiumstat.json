@@ -1,74 +1,74 @@
 [
   {
-    "name1": "Turquie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Corée du Sud",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langfr-250px-Flag_of_South_Korea.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Roumanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/3840px-Flag_of_Romania.svg.png",
-    "pro": "V1"
+    "name2": "Côte d'Ivoire",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/langfr-250px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "pro": "Score exact: 0:4"
   },
   {
-    "name1": "Danemark",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Sénégal",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6oSrhKkh_AKaqfR9uTYLcKnql_3DfHySPg&s",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Macédoine du Nord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1280px-Flag_of_North_Macedonia.svg.png",
-    "pro": "1X Et TP(1.5) - OUI"
+    "name2": "Pérou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/3840px-Flag_of_Peru_%28state%29.svg.png",
+    "pro": "Score exact: 2:0"
   },
   {
-    "name1": "Italie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Canada",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Irlande du Nord",
-    "photo2": "https://preview.redd.it/which-flag-is-the-actual-flag-of-northern-ireland-v0-6s9rb2e0ny8c1.jpeg?width=1079&format=pjpg&auto=webp&s=3e658efb41b9a3a490dad187c22d7823157e92ea",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "name1": "Pologne",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langfr-250px-Flag_of_Poland.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Albanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
+    "name2": "Islande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/3840px-Flag_of_Iceland.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Ukraine",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langfr-250px-Flag_of_Ukraine.svg.png",
-    "champ": "Qualif Coupe du Monde 2026",
+    "name1": "Hongrie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Suède",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/langfr-250px-Flag_of_Sweden.svg.png",
-    "pro": "2X Et TP(1.5) - OUI"
+    "name2": "Slovénie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png",
+    "pro": "V1"
   },
   {
-    "name1": "Gibralar",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/3840px-Flag_of_Gibraltar.svg.png",
-    "champ": "UEFA Nations League",
+    "name1": "Écosse",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1280px-Flag_of_Scotland.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Lettonie",
-    "photo2": "https://i.pinimg.com/474x/06/a3/0c/06a30ccecbdc19abbf9ce95d4c5fb8f2.jpg",
-    "pro": "12"
-  },
-  {
-    "name1": "Malte",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png",
-    "champ": "UEFA Nations League",
-    "date": "WIN",
-    "name2": "Luxembourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1280px-Flag_of_Luxembourg.svg.png",
+    "name2": "Japon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/3840px-Flag_of_Japan.svg.png",
     "pro": "2X"
   },
   {
-    "name1": "Levante",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
+    "name1": "Burkina Faso",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "date": "WIN",
+    "name2": "Guinée-Bissau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/3840px-Flag_of_Guinea-Bissau.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "États-Unis",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "date": "WIN",
+    "name2": "Belgique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1280px-Flag_of_Belgium_%28civil%29.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Malaga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/M%C3%A1laga_CF.svg/1280px-M%C3%A1laga_CF.svg.png",
     "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/960px-Logo_ATM_2024.svg.png",
+    "name2": "Leganés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1280px-Logo_CD_Legan%C3%A9s.svg.png",
     "pro": "2X"
   },
   {
