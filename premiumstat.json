@@ -1,75 +1,75 @@
 [
   {
-    "name1": "Valencia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Crystal Palace",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1280px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Celta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png",
-    "pro": "Score exact: 2:3"
+    "name2": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Real Oviedo",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
-    "champ": "Espagne. LaLiga",
+    "name1": "Forest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png",
-    "pro": "Score exact: 1:0"
+    "name2": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Alavés",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Sunderland",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svg/1280px-Logo_Sunderland_AFC_1997.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Osasuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Tottenham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtHdeSE8ibSCL5FTHZ8VIWtjKcJ5tGi0lwg&s",
     "pro": "Score exact: 2:2"
   },
   {
-    "name1": "Cremonese",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1280px-Logo_US_Cremonese_2018.svg.png",
-    "champ": "Italie. Série A",
+    "name1": "Chelsea",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Bologna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVAfjlUkL0kXalqkl3cFYsmv3VvYEjalAlA&s",
-    "pro": "Score exact: 1:2"
+    "name2": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "pro": "2X Et TP2.5) - OUI"
   },
   {
-    "name1": "Pisa",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/langfr-250px-Logo_Pisa_SC_2024.svg.png",
-    "champ": "Italie. Série A",
+    "name1": "Osasuna",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Torino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/langfr-250px-Logo_Torino_FC_2024.svg.png",
-    "pro": "Score exact: 0:1"
+    "name2": "Real Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
+    "pro": "Total: (+1.5)"
   },
   {
-    "name1": "Union Berlin",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1280px-Logo_1._FC_Union_Berlin_2024.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Mallorca",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdomGGiAgicLOOaBcRDNpTgWv0mL52XPwjMA&s",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "St.Pauli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1280px-FC_St._Pauli_%28logo%29.svg.png",
-    "pro": "Score exact: 1:1"
+    "name2": "Rayo Vallecano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1280px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "name1": "Argentine",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langfr-250px-Flag_of_Argentina.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "name1": "Celta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Zambie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/3840px-Flag_of_Zambia.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "name2": "Real Oviedo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
+    "pro": "12"
   },
   {
-    "name1": "Lettonie",
-    "photo1": "https://i.pinimg.com/474x/06/a3/0c/06a30ccecbdc19abbf9ce95d4c5fb8f2.jpg",
-    "champ": "UEFA Nations League",
+    "name1": "Athletic Club",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0HA3Et96D_XEKXhk3767pwlAsUpTtz22-A&s",
+    "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Gibraltar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/3840px-Flag_of_Gibraltar.svg.png",
-    "pro": "1X"
+    "name2": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1280px-Logo_Villarreal_CF_2009.svg.png",
+    "pro": "2X"
   },
   {
     "name1": "Elche",
