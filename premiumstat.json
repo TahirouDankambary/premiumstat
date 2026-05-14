@@ -1,66 +1,66 @@
 [
   {
-    "name1": "Osasuna",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
+    "name1": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1280px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "pro": "1X Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Espanyol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
     "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/langfr-250px-Logo_FC_Barcelone.svg.png",
-    "pro": "Score exact: 1:2"
-  },
-  {
-    "name1": "Brentford",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1280px-Logo_Brentford_FC_-_2017.svg.png",
-    "champ": "Angleterre. Premier League",
-    "date": "WIN",
-    "name2": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Newcastle",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
-    "champ": "Angleterre. Premier League",
-    "date": "WIN",
-    "name2": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1280px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Wolverhampton",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyESEgKzuO4HlmACrxuwghf2n0r2fx2rLwA&s",
-    "champ": "Angleterre. Premier League",
-    "date": "WIN",
-    "name2": "Sunderland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svg/1280px-Logo_Sunderland_AFC_1997.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png",
+    "pro": "1X"
   },
   {
     "name1": "Villarreal",
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1280px-Logo_Villarreal_CF_2009.svg.png",
     "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Levante",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Levante_UD.svg/1280px-Logo_Levante_UD.svg.png",
-    "pro": "1X"
-  },
-  {
-    "name1": "Valencia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "champ": "Espagne. LaLiga",
-    "date": "WIN",
-    "name2": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/250px-Logo_ATM_2024.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "Sevilla",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
     "name1": "Alavés",
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
     "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Athletic Club",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
+    "name2": "Barcelone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgBaILKgFiotLflLCbrSLiw3Y1B_6iRbmNQ&s",
+    "pro": "12"
+  },
+  {
+    "name1": "Getafe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Mallorca",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdomGGiAgicLOOaBcRDNpTgWv0mL52XPwjMA&s",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Brest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/1920px-Logo_Stade_Brestois.svg.png",
+    "champ": "France. Ligue 1",
+    "date": "WIN",
+    "name2": "Strasbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-250px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Lens",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/1920px-Logo_RC_Lens.svg.png",
+    "champ": "France. Ligue 1",
+    "date": "WIN",
+    "name2": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "pro": "V2"
   },
    {
     "name1": "Arsenal",
