@@ -1,75 +1,75 @@
 [
   {
-    "name1": "PSG",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "champ": "UEFA Champions League",
+    "name1": "Tchéquie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
-    "pro": "Équipe 1 gagnera la coupe"
+    "name2": "Guatemala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1280px-Flag_of_Guatemala.svg.png",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "name1": "Granada",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/960px-Logo_Granada_CF.svg.png",
-    "champ": "Espagne. LaLiga 2",
+    "name1": "Mexique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Sporting de Gijon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Real_Sporting_de_Gijon.svg/960px-Real_Sporting_de_Gijon.svg.png",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "name1": "Athletico",
-    "photo1": "https://images.seeklogo.com/logo-png/48/2/club-athletico-paranaense-logo-png_seeklogo-481623.png",
-    "champ": "Brasileirao Betano",
-    "date": "WIN",
-    "name2": "Mirassol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mirassol_FC_logo.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Flamengo",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_Iz3WzbJ3l-85H1wp1wrXsNlktnOBXS2mw&s",
-    "champ": "Brasileirao Betano",
-    "date": "WIN",
-    "name2": "Coritiba",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/langfr-250px-Coritiba_Foot_Ball_Club_logo.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Bahia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Esporte_Clube_Bahia.svg/1280px-Esporte_Clube_Bahia.svg.png",
-    "champ": "Brasileirao Betano",
-    "date": "WIN",
-    "name2": "Botafogo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/langfr-250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "name2": "Serbie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/3840px-Flag_of_Serbia.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Gremio",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Logo_Gr%C3%AAmio.svg/1280px-Logo_Gr%C3%AAmio.svg.png",
-    "champ": "Brasileirao Betano",
+    "name1": "Indonésie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/langfr-250px-Flag_of_Indonesia.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Corinthians",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/SC_Corinthians_Paulista_logo.svg/960px-SC_Corinthians_Paulista_logo.svg.png",
+    "name2": "Oman",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1280px-Flag_of_Oman.svg.png",
     "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Santos",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santos_logo.svg/1280px-Santos_logo.svg.png",
-    "champ": "Brasileirao Betano",
+    "name1": "Tadjikistan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1280px-Flag_of_Tajikistan.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Vitoria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Esporte_Clube_Vit%C3%B3ria.svg/langfr-250px-Logo_Esporte_Clube_Vit%C3%B3ria.svg.png",
+    "name2": "Inde",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/3840px-Flag_of_India.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Russie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "date": "WIN",
+    "name2": "Burkina Faso",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/langfr-250px-Flag_of_Burkina_Faso.svg.png",
+    "pro": "V1"
+  },
+  {
+    "name1": "Saint-Marin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/3840px-Flag_of_San_Marino.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "date": "WIN",
+    "name2": "Bangladesh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/3840px-Flag_of_Bangladesh.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Hongrie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/3840px-Flag_of_Hungary.svg.png",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "date": "WIN",
+    "name2": "Finlande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/3840px-Flag_of_Finland.svg.png",
     "pro": "1X Et TP(1.5) - OUI"
   },
    {
-    "name1": "Real Madrid",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Canada",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png",
+    "champ": "Matchs amicaux. Équipes nationales",
     "date": "WIN",
-    "name2": "Athletic Club",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "name2": "Irlande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-250px-Flag_of_Ireland.svg.png",
+    "pro": "Total: (+1.5)"
   },
   {
     "name1": "Valencia",
