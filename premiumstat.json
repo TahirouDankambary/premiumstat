@@ -1,57 +1,57 @@
 [
   {
-    "name1": "Tchéquie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "name1": "Qatar",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/3840px-Flag_of_Qatar_%283-2%29.svg.png",
+    "champ": "Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Guatemala",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1280px-Flag_of_Guatemala.svg.png",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "name2": "Suisse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1280px-Flag_of_Switzerland.svg.png",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "name1": "Brésil",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-250px-Flag_of_Brazil.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Maroc",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "name1": "États-Unis",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Paraguay",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Corée du Sud",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langfr-250px-Flag_of_South_Korea.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Tchèquie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Canada",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Bosnie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
     "name1": "Mexique",
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "champ": "Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Serbie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/3840px-Flag_of_Serbia.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Indonésie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/langfr-250px-Flag_of_Indonesia.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Oman",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1280px-Flag_of_Oman.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Tadjikistan",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1280px-Flag_of_Tajikistan.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Inde",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/3840px-Flag_of_India.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Russie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Burkina Faso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/langfr-250px-Flag_of_Burkina_Faso.svg.png",
+    "name2": "Afrique du Sud",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
     "pro": "V1"
-  },
-  {
-    "name1": "Saint-Marin",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/3840px-Flag_of_San_Marino.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Bangladesh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/3840px-Flag_of_Bangladesh.svg.png",
-    "pro": "2X"
   },
   {
     "name1": "Hongrie",
