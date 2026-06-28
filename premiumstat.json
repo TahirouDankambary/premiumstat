@@ -1,75 +1,75 @@
 [
   {
-    "name1": "Qatar",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/3840px-Flag_of_Qatar_%283-2%29.svg.png",
+    "name1": "Égypte",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png",
     "champ": "Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Suisse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1280px-Flag_of_Switzerland.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "Iran",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png",
+    "pro": "Score exact: 1:1"
   },
   {
-    "name1": "Brésil",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-250px-Flag_of_Brazil.svg.png",
+    "name1": "Nouvelle-Zélande",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/3840px-Flag_of_New_Zealand.svg.png",
     "champ": "Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Maroc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png",
+    "name2": "Belgique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/langfr-250px-Flag_of_Belgium.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Cap-Vert",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/3840px-Flag_of_Cape_Verde.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Arabie Saoudite",
+    "photo2": "https://images.emojiterra.com/twitter/v14.0/1024px/1f1f8-1f1e6.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "Uruguay",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/3840px-Flag_of_Uruguay.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Espagne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png",
+    "pro": "V2"
+  },
+  {
+    "name1": "Colombie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Portugal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/330px-Flag_of_Portugal.svg.png",
+    "pro": "2X"
+  },
+  {
+    "name1": "DR Congo",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsxh8YpGR0c4mFenSF35hckvoG_TL-vl6PVx8Aodn5vMPqHDYgHdW7oYW&s=10",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Ouzbékistan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/langfr-250px-Flag_of_Uzbekistan.svg.png",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Croatie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-250px-Civil_ensign_of_Croatia.svg.png",
+    "champ": "Coupe du Monde 2026",
+    "date": "WIN",
+    "name2": "Ghana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/3840px-Flag_of_Ghana.svg.png",
     "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "États-Unis",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
-    "champ": "Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Paraguay",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Corée du Sud",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langfr-250px-Flag_of_South_Korea.svg.png",
-    "champ": "Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Tchèquie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "name1": "Canada",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
-    "champ": "Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Bosnie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "name1": "Mexique",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
-    "champ": "Coupe du Monde 2026",
-    "date": "WIN",
-    "name2": "Afrique du Sud",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-    "pro": "V1"
-  },
-  {
-    "name1": "Hongrie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/3840px-Flag_of_Hungary.svg.png",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "date": "WIN",
-    "name2": "Finlande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/3840px-Flag_of_Finland.svg.png",
-    "pro": "1X Et TP(1.5) - OUI"
   },
    {
-    "name1": "Canada",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "name1": "Panama",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
+    "champ": "Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Irlande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-250px-Flag_of_Ireland.svg.png",
-    "pro": "Total: (+1.5)"
+    "name2": "Angleterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
+    "pro": "V2"
   },
   {
     "name1": "Valencia",
