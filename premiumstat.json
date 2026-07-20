@@ -1,75 +1,75 @@
 [
   {
-    "name1": "Égypte",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png",
+    "name1": "Espagne",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png",
     "champ": "Coupe du Monde 2026",
     "date": "WIN",
-    "name2": "Iran",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png",
-    "pro": "Score exact: 1:1"
+    "name2": "Argentine",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
+    "pro": "Champion du Monde: Equipe 1"
   },
   {
-    "name1": "Nouvelle-Zélande",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/3840px-Flag_of_New_Zealand.svg.png",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Aue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/FC_Erzgebirge_Aue_logo.svg/1280px-FC_Erzgebirge_Aue_logo.svg.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Belgique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/langfr-250px-Flag_of_Belgium.svg.png",
+    "name2": "Schalke",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/langfr-250px-FC_Schalke_04_Logo.svg.png",
     "pro": "V2 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Cap-Vert",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/3840px-Flag_of_Cape_Verde.svg.png",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Balingen",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/c5/TSG_Balingen_Fu%C3%9Fball_Logo.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Arabie Saoudite",
-    "photo2": "https://images.emojiterra.com/twitter/v14.0/1024px/1f1f8-1f1e6.png",
-    "pro": "2X"
+    "name2": "Stuttgart",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "pro": "V2 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Uruguay",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/3840px-Flag_of_Uruguay.svg.png",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Cracovia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/KS_Cracovia_%28logo%29.svg/1280px-KS_Cracovia_%28logo%29.svg.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Espagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png",
-    "pro": "V2"
+    "name2": "Sevilla",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgPG1Hv2OGRn5Z6tTqPBEcO9qgnhqXJYT_c0LfLrEeA&s=10",
+    "pro": "12"
   },
   {
-    "name1": "Colombie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Genoa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Portugal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/330px-Flag_of_Portugal.svg.png",
-    "pro": "2X"
+    "name2": "Trento",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFCUfrvk54P6Viih5o-Eu6asntfqGLgJtMz0heXq2Yw&s=10",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "DR Congo",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsxh8YpGR0c4mFenSF35hckvoG_TL-vl6PVx8Aodn5vMPqHDYgHdW7oYW&s=10",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Verona",
+    "photo1": "https://upload.wikimedia.org/wikipedia/ro/thumb/a/a0/Hellas_Verona_FC.svg/250px-Hellas_Verona_FC.svg.png?_=20220707162321",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Ouzbékistan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/langfr-250px-Flag_of_Uzbekistan.svg.png",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "name2": "Rovereto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48NZKrkKN6mD4-St9tT29KdnNnwjYp9h-QutHJRZk9g&s",
+    "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "name1": "Croatie",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-250px-Civil_ensign_of_Croatia.svg.png",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Rio Ave",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHOKpTK1xakH0fOmBlK7V_hBoyPjUC5hhsZqldt5JXA&s=10",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Ghana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/3840px-Flag_of_Ghana.svg.png",
+    "name2": "Al-Ahli",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCU64my42dFjBIV2BI5tFhFjH10XfZH5b9afd0dS0-bg&s=10",
     "pro": "Deux équipes vont marquer: OUI"
   },
    {
-    "name1": "Panama",
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
-    "champ": "Coupe du Monde 2026",
+    "name1": "Fiorentina",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1280px-Logo_ACF_Fiorentina_2022.svg.png",
+    "champ": "Matchs amicaux des clubs",
     "date": "WIN",
-    "name2": "Angleterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
-    "pro": "V2"
+    "name2": "Fiorentina U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1280px-Logo_ACF_Fiorentina_2022.svg.png",
+    "pro": "V1 Et TP(3.5) - OUI"
   },
   {
     "name1": "Valencia",
