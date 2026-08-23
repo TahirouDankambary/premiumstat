@@ -1,111 +1,111 @@
 [
   {
-    "name1": "KuPS",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrpvJdyN6znJFQea0fVha4xhc_75TBoOdjehudSgQ3kA&s=10",
-    "champ": "UEFA Champions League",
+    "name1": "Hull City",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbPuvetKdYbAq9qxWletYtTuQXKj14XgLGLYQ9eZcpQ&s=10",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Sabah",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp7FsaNywVYR8ScvWcLPZI81NMLjtAP8x0P3B-EH7Dg&s=10",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "name1": "Lincoln RI",
-    "photo1": "https://images.racingpost.com/football/teambadges/5808.png",
-    "champ": "UEFA Champions League",
-    "date": "WIN",
-    "name2": "Mjallby",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpra8Goq-IkopQCAIuv9ORsQyOYejVrTMYzJ4NrYyvg&s",
-    "pro": "2X"
-  },
-  {
-    "name1": "Dinamo",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6jUFJcqkRgPhtMHTsWHepKyK0dIiiY7epybQg7WS6Fw&s=10",
-    "champ": "UEFA Champions League",
-    "date": "WIN",
-    "name2": "Thun",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE6GuZRiHuRZKmZBUUSNWtxE7D3821tEZ-efDVHz2nQ&s=10",
+    "name2": "Man United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXbSnUHcNkBw2SCOyEuukTzt-e75G21CUwgaLaFV4Fg&s=10",
     "pro": "Total: (+1.5)"
   },
   {
-    "name1": "Celje",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvlGTFeQBgSVVJEffpjO1L23xUZcHdeEZ-aljtt3OVg&s=10",
-    "champ": "UEFA Champions League",
+    "name1": "Everton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/1280px-Everton_FC_logo.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Egnatia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KV9Q-Wggl1Nw28-FykdyBgNH2DhXid7B2vCcyWE0VQ&s",
+    "name2": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/Logo_Crystal_Palace_FC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "pro": "1X"
+  },
+  {
+    "name1": "Ipswich",
+    "photo1": "https://assets.football-logos.cc/logos/england/1500x1500/ipswich.1c5f7c35.png",
+    "champ": "Angleterre. Premier League",
+    "date": "WIN",
+    "name2": "Sunderland",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/sunderland.4cec0d39.png",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Hearts",
-    "photo1": "https://cdn.freebiesupply.com/logos/large/2x/hearts-logo-png-transparent.png",
-    "champ": "UEFA Champions League",
+    "name1": "Forest",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvb-bg9ocqay67cPHOHA241_FCMBJR6GOH2h08sx6SQ&s=10",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Sturm",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaBZfw1O5A37h_gO6IUoCd0413ZWfZ3n96fx1I2L1Sw&s=10",
-    "pro": "2X"
+    "name2": "Leeds",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/leeds-united.7a40d61b.png",
+    "pro": "12"
   },
   {
-    "name1": "Shamrock Rovers",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFL2XqO1W792QtIlQOt9mZEi_P8KHnQuf1H4qV-V4PAQ&s",
-    "champ": "UEFA Champions League",
+    "name1": "Brentford",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_Brentford_FC_2016.svg/960px-Logo_Brentford_FC_2016.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20190504185104",
+    "champ": "Angleterre. Premier League",
     "date": "WIN",
-    "name2": "Ararat Armenia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ararat-Armenia.png",
-    "pro": "Total: (+2)"
-  },
-  {
-    "name1": "Apollon",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qhpAHP557DcQDsp7SXWLxBfKmH7BZXrcfisaF5NiGQ&s=10",
-    "champ": "UEFA Conference League",
-    "date": "WIN",
-    "name2": "Dila",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGU-HxJcMsdx22l3LAcSKeQdMSKvEPA8qD1F-742TpA&s=10",
-    "pro": "V1"
-  },
-   {
-    "name1": "Riga",
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DtDQ-LZ0SoqLeR1rnLKMTY6Q6Gpo8bXThn0sMYHvHA&s=10",
-    "champ": "UEFA Conference League",
-    "date": "WIN",
-    "name2": "Vardar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwlfN5oLkJEhSDbuopQiqelfuRwjCUR4L1ax42fgiGQ&s",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "name1": "Valencia",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "champ": "Espagne. LaLiga",
-    "date": "WIN",
-    "name2": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/langfr-250px-Logo_FC_Barcelone.svg.png",
+    "name2": "Tottenham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5PwcDWYjoyoRG8yhuqvlZmS0aadesoy-qYUK7z4pfA&s=10",
     "pro": "Total: (+2.5)"
   },
   {
-    "name1": "Napoli",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_SSC_Napoli_2024.svg/langfr-250px-Logo_SSC_Napoli_2024.svg.png",
+    "name1": "Athletic",
+    "photo1": "https://assets.football-logos.cc/logos/spain/1500x1500/athletic-club.ec38af57.png",
     "champ": "Espagne. LaLiga",
     "date": "WIN",
-    "name2": "Fiorentina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1280px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Seville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "name1": "Valencia",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMk1u-cL4MdTzRZsACeO-vojoKcD5I4rT62r6V6TFgQ&s=10",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Celta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "pro": "1X"
+  },
+   {
+    "name1": "Espanyol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
+    "champ": "Espagne. LaLiga",
+    "date": "WIN",
+    "name2": "Real Madrid",
+    "photo2": "https://www.edigitalagency.com.au/wp-content/uploads/Real-Madrid-logo-PNG-large-size.png",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+  {
+    "name1": "Inter",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/960px-FC_Internazionale_Milano_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "champ": "Italie. Série A",
+    "date": "WIN",
+    "name2": "Monza",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4c9OBGz10vs2WLl45bntYXcD0CPf2rdEKKUMoejipdw&s=10",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "name1": "Udinese",
+    "photo1": "https://assets.football-logos.cc/logos/italy/1500x1500/udinese.e0c63894.png",
+    "champ": "Italie. Série A",
+    "date": "WIN",
+    "name2": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "name1": "Cagliari",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/langfr-250px-Cagliari_Calcio_1920_logo.svg.png",
-    "champ": "Espagne. LaLiga",
+    "name1": "Genoa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Genoa_CFC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "Verona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ro/thumb/a/a0/Hellas_Verona_FC.svg/250px-Hellas_Verona_FC.svg.png",
-    "pro": "1X Et TP(1.5) - OUI"
+    "name2": "Napoli",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1A20AxYkqdgAXTg42JYMxX-KAql1jljBM-0zhlEbOFg&s=10",
+    "pro": "2X"
   },
   {
-    "name1": "Frankfurt",
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1280px-Logo_Eintracht_Francfort.svg.png",
-    "champ": "Allemagne. Bundesliga",
+    "name1": "Parma",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Parma_F.C._logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "champ": "Italie. Série A",
     "date": "WIN",
-    "name2": "Leverkusen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "pro": "V2"
+    "name2": "Cagliari",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/250px-Cagliari_Calcio_1920_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20170203114312",
+    "pro": "2X"
   },
   {
     "name1": "Augsburg",
