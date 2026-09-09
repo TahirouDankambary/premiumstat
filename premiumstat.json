@@ -1,5 +1,14 @@
 [
   {
+    "name1": "Stuttgart",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "champ": "UEFA. Champions League",
+    "date": "WIN",
+    "name2": "Viking",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
+    "pro": "Score exact: 3:1"
+  },
+  {
     "name1": "Dortmund",
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "champ": "UEFA. Champions League",
@@ -7,15 +16,6 @@
     "name2": "Villarreal",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzY5HKSUQFp0QBRVpcbPHIJ8_ohSPi7Eq1LqBQvjxXAQ&s=10",
     "pro": "Score exact: 3:2"
-  },
-  {
-    "name1": "Everton",
-    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/1280px-Everton_FC_logo.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "champ": "Angleterre. Premier League",
-    "date": "WIN",
-    "name2": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/Logo_Crystal_Palace_FC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "pro": "1X"
   },
   {
     "name1": "Ipswich",
